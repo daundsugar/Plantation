@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IrrigationMethod>
+    <MethodCode Code="1">
+      <Method>विहीर</Method>
+    </MethodCode>
+     <MethodCode Code="2">
+      <Method>कॅनॉल</Method>
+    </MethodCode>    
+</IrrigationMethod>
