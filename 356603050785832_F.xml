@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FarmerList>
+    <GatCode Code="10">
+      <VillageCode Code="1">
+      <GrowerCode>1232</GrowerCode>
+      <GrowerName>जाधव रविंद्र कुशाबा</GrowerName>
+     <GrowerCode>1234</GrowerCode>
+      <GrowerName>बोबडे ज्ञानदेव कृष्णाजी</GrowerName>
+      <GrowerCode>21302</GrowerCode>
+      <GrowerName>कदम उज्वला अशोक</GrowerName>
+      </VillageCode>  
+     <VillageCode Code="2">
+      <GrowerCode>123</GrowerCode>
+      <GrowerName>कदम अशोक विठ्ठलराव</GrowerName>
+     <GrowerCode>94</GrowerCode>
+      <GrowerName>कदम केरबा रंगनाथ</GrowerName>
+      <GrowerCode>21283</GrowerCode>
+      <GrowerName>कदम नंदु केरबा</GrowerName>
+      </VillageCode>     
+    </GatCode>        
+<GatCode Code="12">
+      <VillageCode Code="11">
+      <GrowerCode>12069</GrowerCode>
+      <GrowerName>कदम गजानन दादासो</GrowerName>
+     <GrowerCode>107</GrowerCode>
+      <GrowerName>कदम लालासो सावळाराम</GrowerName>
+      <GrowerCode>11643</GrowerCode>
+      <GrowerName>गोरे दत्तात्रय किसन</GrowerName>
+      </VillageCode>      
+    </GatCode>        
+</FarmerList>
