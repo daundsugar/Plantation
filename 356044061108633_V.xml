@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VillageList>
+    <GatCode Code="10">
+      <VillageCode Code="1">
+      <VillageName>आलेगाव</VillageName>
+      </VillageCode> 
+     <VillageCode Code="2">
+      <VillageName>कदम वस्ती</VillageName>
+      </VillageCode>     
+    </GatCode>      
+   <GatCode Code="12">
+      <VillageCode Code="11">
+      <VillageName>पेडगाव(दौंड) </VillageName>
+      </VillageCode> 
+     <VillageCode Code="12">
+      <VillageName>मसनेरवाडी</VillageName>
+      </VillageCode>     
+    </GatCode>       
+</VillageList>
