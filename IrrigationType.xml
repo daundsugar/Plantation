@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <IrrigationType>
-    <IrrigationType Code="1">
+    <IrrigationCode Code="1">
       <TypeName>विहीर</TypeName>
-    </IrrigationType>
-     <IrrigationType Code="2">
+    </IrrigationCode>
+     <IrrigationCode Code="2">
       <TypeName>कॅनॉल</TypeName>
-    </IrrigationType>    
+    </IrrigationCode>    
 </IrrigationType>
