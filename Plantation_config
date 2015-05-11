@@ -5,24 +5,28 @@
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_V.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
   </UserCode>
   <UserCode Code="356603050785832">
         <UserName>Rohit</UserName>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
    </UserCode>
 <UserCode Code="911306904040341">
         <UserName>Ravindra</UserName>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
    </UserCode>
 <UserCode Code="911306904346342">
         <UserName>Ravindra</UserName>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
    </UserCode>
 
 <UserCode Code="356044060310537">
@@ -30,6 +34,7 @@
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
    </UserCode>
 </User>
  
