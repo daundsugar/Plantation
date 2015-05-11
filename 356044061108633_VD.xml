@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+	    <PlotNo No="1">
+		    <RegFormNo>1</RegFormNo>
+		    <GatCode>1</GatCode>
+		    <GatName>ओझर</GatName>
+		   <VillageCode>1</VillageCode>
+		   <VillageName>अपटाळे</VillageName>
+		   <Distance>0</Distance>
+		   <CaneGrowerCode>1232</CaneGrowerCode>
+		   <CaneGrowerName>जाधव रविंद्र कुशाबा</CaneGrowerName>
+		   <ServeyNo>123</ServeyNo>
+		   <PlantationDate>04/05/2015</PlantationDate>
+		   <CaneTypeCode>1</CaneTypeCode>
+		   <CaneType>पु.हंगामी</CaneType>
+		   <CaneVarietyCode>1</CaneVarietyCode>
+		   <CaneVariety>COM-265</CaneVariety>
+		   <Area>0.20</Area>
+		   <IrrigationTypeCode>1</IrrigationTypeCode>
+		   <IrrigationType>विहीर</IrrigationType>
+		   <IrrigationMethodCode>1</IrrigationMethodCode>
+		   <IrrigationMethod>विहीर</IrrigationMethod>
+		   <PlantationTypeCode>1</PlantationTypeCode>
+		   <PlantationType>विहीर</PlantationType>
+	    </PlotNo>
+	    <PlotNo No="2">
+		    <RegFormNo>2</RegFormNo>
+		    <GatCode>1</GatCode>
+		    <GatName>ओझर</GatName>
+		   <VillageCode>1</VillageCode>
+		   <VillageName>अपटाळे</VillageName>
+		   <Distance>0</Distance>
+		   <CaneGrowerCode>1231</CaneGrowerCode>
+		   <CaneGrowerName>बोबडे ज्ञानदेव कृष्णाजी</CaneGrowerName>
+		   <ServeyNo>1233</ServeyNo>
+		   <PlantationDate>04/05/2015</PlantationDate>
+		   <CaneTypeCode>1</CaneTypeCode>
+		   <CaneType>पु.हंगामी</CaneType>
+		   <CaneVarietyCode>1</CaneVarietyCode>
+		   <CaneVariety>COM-265</CaneVariety>
+		   <Area>0.20</Area>
+		   <IrrigationTypeCode>1</IrrigationTypeCode>
+		   <IrrigationType>विहीर</IrrigationType>
+		   <IrrigationMethodCode>1</IrrigationMethodCode>
+		   <IrrigationMethod>विहीर</IrrigationMethod>
+		   <PlantationTypeCode>1</PlantationTypeCode>
+		   <PlantationType>विहीर</PlantationType>
+	    </PlotNo>
+</VerificationData>
