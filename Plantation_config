@@ -2,6 +2,7 @@
 <User>
     <UserCode Code="356044061108633">
         <UserName>Manoj</UserName>
+        <Range>1-1000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_V.xml</VillageList>
@@ -9,6 +10,7 @@
   </UserCode>
   <UserCode Code="356603050785832">
         <UserName>Rohit</UserName>
+          <Range>1001-2000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
@@ -16,6 +18,7 @@
    </UserCode>
 <UserCode Code="911306904040341">
         <UserName>Ravindra</UserName>
+          <Range>2001-3000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
@@ -23,6 +26,7 @@
    </UserCode>
 <UserCode Code="911306904346342">
         <UserName>Ravindra</UserName>
+        <Range>3001-4000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
@@ -31,6 +35,7 @@
 
 <UserCode Code="356044060310537">
         <UserName>Kale</UserName>
+         <Range>4001-5000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_F.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356603050785832_V.xml</VillageList>
