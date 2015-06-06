@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FarmerList>
+  <GatCode Code="1">
+    <VillageCode Code="202">
+      <GrowerCode>20000</GrowerCode>
+      <GrowerName>इंगवले सुनंदा विठ्ठलराव</GrowerName>
+      <GrowerCode>20011</GrowerCode>
+      <GrowerName>उंडे महादेव तुकाराम</GrowerName>
+      <GrowerCode>13171</GrowerCode>
+      <GrowerName>उगले हिराबाई शिवदास</GrowerName>
+      <GrowerCode>16969</GrowerCode>
+      <GrowerName>कतुरे ज्ञानेश्वर बबन</GrowerName>
+      <GrowerCode>13072</GrowerCode>
+      <GrowerName>कतुरे तुकाराम नारायण</GrowerName>
+      <GrowerCode>13058</GrowerCode>
+      <GrowerName>कतुरे नारायण बाबासो</GrowerName>
+      <GrowerCode>19936</GrowerCode>
+      <GrowerName>कतुरे बबन बाबा</GrowerName>
+      <GrowerCode>31570</GrowerCode>
+      <GrowerName>कतुरे माणिक बबन</GrowerName>
+      <GrowerCode>46262</GrowerCode>
+      <GrowerName>कतुरे रविना हनुमंत</GrowerName>
+      <GrowerCode>46261</GrowerCode>
+      <GrowerName>कतुरे शितल तुकाराम</GrowerName>
+      <GrowerCode>23081</GrowerCode>
+      <GrowerName>कतुरे शोभा नारायण</GrowerName>
+      <GrowerCode>23080</GrowerCode>
+      <GrowerName>कतुरे हनुमंत नारायण</GrowerName>
+      <GrowerCode>16083</GrowerCode>
+      <GrowerName>कदम अंकुश बापुराव</GrowerName>
+      <GrowerCode>46614</GrowerCode>
+      <GrowerName>कांबळे नंदा विनायक</GrowerName>
+      <GrowerCode>22701</GrowerCode>
+      <GrowerName>कांबळे सदाशिव मारुती</GrowerName>
+      <GrowerCode>9405</GrowerCode>
+      <GrowerName>कामठे अर्जुन सखाराम</GrowerName>
+      <GrowerCode>20048</GrowerCode>
+      <GrowerName>कामठे पोपट ज्ञानदेव</GrowerName>
+      <GrowerCode>3776</GrowerCode>
+      <GrowerName>कामठे बापू पांडुरंग</GrowerName>
+      <GrowerCode>20022</GrowerCode>
+      <GrowerName>कामठे मोहन रघुनाथ</GrowerName>
+      <GrowerCode>20126</GrowerCode>
+      <GrowerName>कामठे रामदास गुलाब(NOT USE)</GrowerName>
+      <GrowerCode>20152</GrowerCode>
+      <GrowerName>कामठे विलास माणिक</GrowerName>
+      <GrowerCode>20094</GrowerCode>
+      <GrowerName>कामठे शिवाजी ज्ञानदेव</GrowerName>
+      <GrowerCode>39201</GrowerCode>
+      <GrowerName>काळंगे किसन जयवंत</GrowerName>
+      <GrowerCode>39202</GrowerCode>
+      <GrowerName>काळंगे बबन किसन</GrowerName>
+      <GrowerCode>14730</GrowerCode>
+      <GrowerName>काळे कैलास कृष्णा</GrowerName>
+      <GrowerCode>20116</GrowerCode>
+      <GrowerName>काळे ज्ञानदेव गुलाब(गोपाळ)</GrowerName>
+      <GrowerCode>46008</GrowerCode>
+      <GrowerName>काळे तुकाराम सोपान</GrowerName>
+      <GrowerCode>21824</GrowerCode>
+      <GrowerName>काळे पुष्पा ज्ञानदेव</GrowerName>
+      <GrowerCode>20149</GrowerCode>
+      <GrowerName>काळे भानुदास सोपान </GrowerName>
+      <GrowerCode>13188</GrowerCode>
+      <GrowerName>काळे रामदास गुलाब</GrowerName>
+      <GrowerCode>7966</GrowerCode>
+      <GrowerName>काळे लक्ष्मण रघुनाथ</GrowerName>
+      <GrowerCode>45236</GrowerCode>
+      <GrowerName>काळे विश्वनाथ रघुनाथ</GrowerName>
+      <GrowerCode>39348</GrowerCode>
+      <GrowerName>काळे सुनंदा शहाजी</GrowerName>
+      <GrowerCode>9309</GrowerCode>
+      <GrowerName>कुंभार दत्तात्रय भगवान</GrowerName>
+      <GrowerCode>20052</GrowerCode>
+      <GrowerName>कुंभार दिलीप विश्वनाथ</GrowerName>
+      <GrowerCode>9351</GrowerCode>
+      <GrowerName>कुंभार भगवान लक्ष्मण</GrowerName>
+      <GrowerCode>39198</GrowerCode>
+      <GrowerName>कुंभार महेश सुदाम</GrowerName>
+      <GrowerCode>20163</GrowerCode>
+      <GrowerName>कुंभार शालन सुदाम</GrowerName>
+      <GrowerCode>20053</GrowerCode>
+      <GrowerName>कुंभार सुरेश विश्वनाथ</GrowerName>
+      <GrowerCode>39197</GrowerCode>
+      <GrowerName>को-हाळे अभिमन्यु अर्जुन</GrowerName>
+      <GrowerCode>13061</GrowerCode>
+      <GrowerName>को-हाळे लक्ष्मण हरिभाऊ</GrowerName>
+      <GrowerCode>38978</GrowerCode>
+      <GrowerName>को-हाळे शिवाजी भिमा</GrowerName>
+      <GrowerCode>19976</GrowerCode>
+      <GrowerName>को-हाळे सत्यभामा हरीभाऊ</GrowerName>
+      <GrowerCode>21832</GrowerCode>
+      <GrowerName>को-हाळे सुभद्राबाई अर्जुन</GrowerName>
+      <GrowerCode>7237</GrowerCode>
+      <GrowerName>कोंडे दत्तात्रय गोरक्ष</GrowerName>
+      <GrowerCode>20150</GrowerCode>
+      <GrowerName>कोंडे दत्तात्रय गोरख</GrowerName>
+      <GrowerCode>7236</GrowerCode>
+      <GrowerName>कोंडे नवनाथ गोरक्ष</GrowerName>
+      <GrowerCode>45998</GrowerCode>
+      <GrowerName>खाडे मारुती भानुदास</GrowerName>
+      <GrowerCode>13042</GrowerCode>
+      <GrowerName>खोमणे बापु खंडु</GrowerName>
+      <GrowerCode>19934</GrowerCode>
+      <GrowerName>खोमणे भगवान रामचंद्र</GrowerName>
+      <GrowerCode>20151</GrowerCode>
+      <GrowerName>खोमणे विठ्ठल गुलाब</GrowerName>
+      <GrowerCode>8513</GrowerCode>
+      <GrowerName>गायकवाड गणपत तुकाराम</GrowerName>
+      <GrowerCode>35392</GrowerCode>
+      <GrowerName>गायकवाड तुकाराम दामोधर </GrowerName>
+      <GrowerCode>21831</GrowerCode>
+      <GrowerName>गायकवाड महादेव रामचंद्र</GrowerName>
+      <GrowerCode>13094</GrowerCode>
+      <GrowerName>गायकवाड राजाराम साहेबराव</GrowerName>
+      <GrowerCode>38979</GrowerCode>
+      <GrowerName>गायकवाड संतोष परशुराम</GrowerName>
+      <GrowerCode>8562</GrowerCode>
+      <GrowerName>गायकवाड हनुमंत साहेबराव</GrowerName>
+      <GrowerCode>7118</GrowerCode>
+      <GrowerName>गोधडे अशोक सिताराम </GrowerName>
+      <GrowerCode>20016</GrowerCode>
+      <GrowerName>गोधडे छबु नारायण</GrowerName>
+      <GrowerCode>20018</GrowerCode>
+      <GrowerName>गोधडे झुंबर नारायण</GrowerName>
+      <GrowerCode>7120</GrowerCode>
+      <GrowerName>गोधडे दत्तात्रय सिताराम </GrowerName>
+      <GrowerCode>39469</GrowerCode>
+      <GrowerName>गोधडे दत्तु भिवा</GrowerName>
+      <GrowerCode>30069</GrowerCode>
+      <GrowerName>गोधडे प्रभाकर देवबा</GrowerName>
+      <GrowerCode>7119</GrowerCode>
+      <GrowerName>गोधडे रामदास सिताराम </GrowerName>
+      <GrowerCode>7121</GrowerCode>
+      <GrowerName>गोधडे सिताराम अनंता </GrowerName>
+      <GrowerCode>20012</GrowerCode>
+      <GrowerName>गोधडे हनुमंत छबु</GrowerName>
+      <GrowerCode>8157</GrowerCode>
+      <GrowerName>घोलप लता राजू</GrowerName>
+      <GrowerCode>7813</GrowerCode>
+      <GrowerName>चव्हाण अर्जुन पोपट</GrowerName>
+      <GrowerCode>7812</GrowerCode>
+      <GrowerName>चव्हाण तुकाराम निवृत्ती</GrowerName>
+      <GrowerCode>20121</GrowerCode>
+      <GrowerName>चव्हाण भिमराव विठ्ठल</GrowerName>
+      <GrowerCode>13183</GrowerCode>
+      <GrowerName>चव्हाण रामदास धोंडिबा</GrowerName>
+      <GrowerCode>13133</GrowerCode>
+      <GrowerName>चव्हाण वंदना अशोक</GrowerName>
+      <GrowerCode>7363</GrowerCode>
+      <GrowerName>जंगले मच्छिंद्र शामराव</GrowerName>
+      <GrowerCode>20055</GrowerCode>
+      <GrowerName>जगताप सरस्वती ज्ञानदेव</GrowerName>
+      <GrowerCode>20093</GrowerCode>
+      <GrowerName>जाधव बापु भिवा</GrowerName>
+      <GrowerCode>47629</GrowerCode>
+      <GrowerName>जाधव राजेंद्र दत्तात्रय</GrowerName>
+      <GrowerCode>13089</GrowerCode>
+      <GrowerName>डोंबे गोरख देवबा</GrowerName>
+      <GrowerCode>13091</GrowerCode>
+      <GrowerName>डोंबे संजय देवबा</GrowerName>
+      <GrowerCode>9565</GrowerCode>
+      <GrowerName>डोईफोडे निवृत्ती हरीबा</GrowerName>
+      <GrowerCode>19937</GrowerCode>
+      <GrowerName>डोईफोडे वामन हरिबा</GrowerName>
+      <GrowerCode>20033</GrowerCode>
+      <GrowerName>ढवळे आप्पा आण्णा</GrowerName>
+      <GrowerCode>20173</GrowerCode>
+      <GrowerName>ढवळे कुंडलिक मुरलिधर</GrowerName>
+      <GrowerCode>20171</GrowerCode>
+      <GrowerName>ढवळे गोरख विश्वनाथ </GrowerName>
+      <GrowerCode>8663</GrowerCode>
+      <GrowerName>ढवळे चांगदेव रोहिदास</GrowerName>
+      <GrowerCode>7980</GrowerCode>
+      <GrowerName>ढवळे निलकंठ मुरलीधर</GrowerName>
+      <GrowerCode>20040</GrowerCode>
+      <GrowerName>ढवळे बंकट नारायण</GrowerName>
+      <GrowerCode>19969</GrowerCode>
+      <GrowerName>ढवळे रामदास बजरंग</GrowerName>
+      <GrowerCode>21827</GrowerCode>
+      <GrowerName>ढवळे रुक्मिणी विठ्ठल</GrowerName>
+      <GrowerCode>31572</GrowerCode>
+      <GrowerName>ढवळे रोहीदास आण्णा</GrowerName>
+      <GrowerCode>21825</GrowerCode>
+      <GrowerName>ढवळे लक्ष्मण बजरंग</GrowerName>
+      <GrowerCode>20039</GrowerCode>
+      <GrowerName>ढवळे विकास झुंबर</GrowerName>
+      <GrowerCode>21828</GrowerCode>
+      <GrowerName>ढवळे वैशाली बंकट</GrowerName>
+      <GrowerCode>20036</GrowerCode>
+      <GrowerName>ढवळे संतोष आण्णा(NOT-USE)</GrowerName>
+      <GrowerCode>31569</GrowerCode>
+      <GrowerName>ढवळे सरस्वती रोहीदास</GrowerName>
+      <GrowerCode>20122</GrowerCode>
+      <GrowerName>ढवळे सुनिल रोहिदास</GrowerName>
+      <GrowerCode>33680</GrowerCode>
+      <GrowerName>तांबे तानाजी शहाजी</GrowerName>
+      <GrowerCode>8491</GrowerCode>
+      <GrowerName>तोडकर चंद्रकांत बजरंग</GrowerName>
+      <GrowerCode>13046</GrowerCode>
+      <GrowerName>तोडकर रमेश बजरंग</GrowerName>
+      <GrowerCode>31586</GrowerCode>
+      <GrowerName>तोरकड चंद्रकांत बजरंग (Not in use)</GrowerName>
+      <GrowerCode>31580</GrowerCode>
+      <GrowerName>तोरकड रमेश बजरंग</GrowerName>
+      <GrowerCode>20192</GrowerCode>
+      <GrowerName>थोरात दिलीप लक्ष्मण</GrowerName>
+      <GrowerCode>20095</GrowerCode>
+      <GrowerName>दरेकर सिताबाई संतोष</GrowerName>
+      <GrowerCode>13077</GrowerCode>
+      <GrowerName>नामगुडे अनुसया जालिंदर</GrowerName>
+      <GrowerCode>46007</GrowerCode>
+      <GrowerName>नामगुडे गणेश निवृत्ती</GrowerName>
+      <GrowerCode>13168</GrowerCode>
+      <GrowerName>नामगुडे दिपक भिवाजी</GrowerName>
+      <GrowerCode>12345</GrowerCode>
+      <GrowerName>नामगुडे निवृत्ती सावळाराम</GrowerName>
+      <GrowerCode>21826</GrowerCode>
+      <GrowerName>नामगुडे प्रल्हाद भिवाजी</GrowerName>
+      <GrowerCode>20086</GrowerCode>
+      <GrowerName>नामगुडे विजय निवृत्ती</GrowerName>
+      <GrowerCode>26700</GrowerCode>
+      <GrowerName>पहाणे अशोक किसन</GrowerName>
+      <GrowerCode>20132</GrowerCode>
+      <GrowerName>पहाणे छाया बाळासाहेब</GrowerName>
+      <GrowerCode>13163</GrowerCode>
+      <GrowerName>पहाणे नाना बबन</GrowerName>
+      <GrowerCode>26649</GrowerCode>
+      <GrowerName>पहाणे नारायण विष्णू</GrowerName>
+      <GrowerCode>13119</GrowerCode>
+      <GrowerName>पहाणे पोपट किसन</GrowerName>
+      <GrowerCode>13157</GrowerCode>
+      <GrowerName>पहाणे बबन रंगनाथ</GrowerName>
+      <GrowerCode>13105</GrowerCode>
+      <GrowerName>पहाणे बाबुराव रामभाऊ</GrowerName>
+      <GrowerCode>13097</GrowerCode>
+      <GrowerName>पहाणे बाळासाहेब गुलाबराव</GrowerName>
+      <GrowerCode>20108</GrowerCode>
+      <GrowerName>पहाणे महेश बाबुराव</GrowerName>
+      <GrowerCode>13103</GrowerCode>
+      <GrowerName>पहाणे राजाराम बाबुराव</GrowerName>
+      <GrowerCode>35034</GrowerCode>
+      <GrowerName>पहाणे रेखा दिपक</GrowerName>
+      <GrowerCode>13159</GrowerCode>
+      <GrowerName>पहाणे विजु गणपत</GrowerName>
+      <GrowerCode>20111</GrowerCode>
+      <GrowerName>पहाणे शिवाजी सोनबा</GrowerName>
+      <GrowerCode>23079</GrowerCode>
+      <GrowerName>पहाणे सिमा राजाराम</GrowerName>
+      <GrowerCode>3746</GrowerCode>
+      <GrowerName>पासलकर गणपत पांडुजी</GrowerName>
+      <GrowerCode>31574</GrowerCode>
+      <GrowerName>पासलकर महेंद्र नारायण</GrowerName>
+      <GrowerCode>3769</GrowerCode>
+      <GrowerName>पासलकर राजेंद्र नारायण</GrowerName>
+      <GrowerCode>31576</GrowerCode>
+      <GrowerName>पासलकर लता राजेंद्र</GrowerName>
+      <GrowerCode>13106</GrowerCode>
+      <GrowerName>बागल अशोक मोरोपंत</GrowerName>
+      <GrowerCode>13054</GrowerCode>
+      <GrowerName>बागल कमलादेवी अशोक</GrowerName>
+      <GrowerCode>21833</GrowerCode>
+      <GrowerName>बागल गणेश माधव</GrowerName>
+      <GrowerCode>20088</GrowerCode>
+      <GrowerName>बागल महेश महादेव</GrowerName>
+      <GrowerCode>13050</GrowerCode>
+      <GrowerName>बागल रविंद्र अशोक</GrowerName>
+      <GrowerCode>13053</GrowerCode>
+      <GrowerName>बागल विजय अशोक</GrowerName>
+      <GrowerCode>20102</GrowerCode>
+      <GrowerName>बालगुडे सुरेखा लालासो</GrowerName>
+      <GrowerCode>39203</GrowerCode>
+      <GrowerName>भापकर गणेश अशोक</GrowerName>
+      <GrowerCode>9522</GrowerCode>
+      <GrowerName>भिकुले बाळु साधु</GrowerName>
+      <GrowerCode>47628</GrowerCode>
+      <GrowerName>भिकुले ललिता अंकुश</GrowerName>
+      <GrowerCode>47592</GrowerCode>
+      <GrowerName>भिकुले शंकर महादेव</GrowerName>
+      <GrowerCode>25081</GrowerCode>
+      <GrowerName>भिकुले सहादू सखाराम</GrowerName>
+      <GrowerCode>32780</GrowerCode>
+      <GrowerName>भोसले अभिमन्यु मारुती</GrowerName>
+      <GrowerCode>3726</GrowerCode>
+      <GrowerName>भोसले अमोल बापू</GrowerName>
+      <GrowerCode>19946</GrowerCode>
+      <GrowerName>भोसले अश्विनी संदिप</GrowerName>
+      <GrowerCode>13151</GrowerCode>
+      <GrowerName>भोसले आण्णा लालजी</GrowerName>
+      <GrowerCode>38941</GrowerCode>
+      <GrowerName>भोसले आबासाहेब नारायण</GrowerName>
+      <GrowerCode>39597</GrowerCode>
+      <GrowerName>भोसले उर्मिला सुरेश</GrowerName>
+      <GrowerCode>13102</GrowerCode>
+      <GrowerName>भोसले एकनाथ आश्रु</GrowerName>
+      <GrowerCode>39199</GrowerCode>
+      <GrowerName>भोसले एकनाथ दत्तु</GrowerName>
+      <GrowerCode>13153</GrowerCode>
+      <GrowerName>भोसले गुरुनाथ दत्तु</GrowerName>
+      <GrowerCode>8402</GrowerCode>
+      <GrowerName>भोसले गोपाळ ज्ञानदेव</GrowerName>
+      <GrowerCode>13134</GrowerCode>
+      <GrowerName>भोसले गोरख दिनकर</GrowerName>
+      <GrowerCode>8218</GrowerCode>
+      <GrowerName>भोसले चांगदेव पांडुरंग</GrowerName>
+      <GrowerCode>13044</GrowerCode>
+      <GrowerName>भोसले चांगदेव सोपान</GrowerName>
+      <GrowerCode>21830</GrowerCode>
+      <GrowerName>भोसले छाया तुकाराम</GrowerName>
+      <GrowerCode>13062</GrowerCode>
+      <GrowerName>भोसले जगदीश दत्तु</GrowerName>
+      <GrowerCode>19949</GrowerCode>
+      <GrowerName>भोसले जयश्री ज्ञानदेव</GrowerName>
+      <GrowerCode>20101</GrowerCode>
+      <GrowerName>भोसले ज्ञानदेव पांडुरंग</GrowerName>
+      <GrowerCode>20100</GrowerCode>
+      <GrowerName>भोसले तुकाराम चांगदेव</GrowerName>
+      <GrowerCode>19943</GrowerCode>
+      <GrowerName>भोसले द्वारकाबाई चांगदेव</GrowerName>
+      <GrowerCode>46424</GrowerCode>
+      <GrowerName>भोसले नंदा अभिमन्यु</GrowerName>
+      <GrowerCode>13083</GrowerCode>
+      <GrowerName>भोसले नवनाथ सोपान</GrowerName>
+      <GrowerCode>19982</GrowerCode>
+      <GrowerName>भोसले निर्मला भिमाशंकर</GrowerName>
+      <GrowerCode>7939</GrowerCode>
+      <GrowerName>भोसले पुष्पा चांगदेव</GrowerName>
+      <GrowerCode>23082</GrowerCode>
+      <GrowerName>भोसले बापु सोपान</GrowerName>
+      <GrowerCode>31587</GrowerCode>
+      <GrowerName>भोसले भिमराव मारुती</GrowerName>
+      <GrowerCode>9648</GrowerCode>
+      <GrowerName>भोसले भिमाशंकर सोपान</GrowerName>
+      <GrowerCode>20106</GrowerCode>
+      <GrowerName>भोसले महादेव उध्दव</GrowerName>
+      <GrowerCode>20129</GrowerCode>
+      <GrowerName>भोसले मीना नवनाथ</GrowerName>
+      <GrowerCode>13129</GrowerCode>
+      <GrowerName>भोसले युवराज बाळासो</GrowerName>
+      <GrowerCode>7774</GrowerCode>
+      <GrowerName>भोसले रत्नमाला शिवाजी</GrowerName>
+      <GrowerCode>46425</GrowerCode>
+      <GrowerName>भोसले रोहिणी भिमराव</GrowerName>
+      <GrowerCode>19951</GrowerCode>
+      <GrowerName>भोसले रोहिदास कुंडलिक</GrowerName>
+      <GrowerCode>13149</GrowerCode>
+      <GrowerName>भोसले लक्ष्मण लालाजी</GrowerName>
+      <GrowerCode>19944</GrowerCode>
+      <GrowerName>भोसले वर्षाराणी तुकाराम</GrowerName>
+      <GrowerCode>38942</GrowerCode>
+      <GrowerName>भोसले विनोद आबा</GrowerName>
+      <GrowerCode>31593</GrowerCode>
+      <GrowerName>भोसले विलास रामदास</GrowerName>
+      <GrowerCode>19971</GrowerCode>
+      <GrowerName>भोसले शिवाजी कुंडलिक</GrowerName>
+      <GrowerCode>34024</GrowerCode>
+      <GrowerName>भोसले संतोष तात्या</GrowerName>
+      <GrowerCode>7235</GrowerCode>
+      <GrowerName>भोसले संदिप ज्ञानदेव</GrowerName>
+      <GrowerCode>46423</GrowerCode>
+      <GrowerName>भोसले सतिश तात्या</GrowerName>
+      <GrowerCode>39728</GrowerCode>
+      <GrowerName>भोसले सुरेश नारायण(जोतिबानगर)</GrowerName>
+      <GrowerCode>13086</GrowerCode>
+      <GrowerName>भोसले सोपान रामचंद्र</GrowerName>
+      <GrowerCode>12521</GrowerCode>
+      <GrowerName>भोसले(लांडे) गोरख दिनकर</GrowerName>
+      <GrowerCode>20167</GrowerCode>
+      <GrowerName>भोसले(लांडे) तात्याबा भगवान</GrowerName>
+      <GrowerCode>21834</GrowerCode>
+      <GrowerName>भोसले(लांडे) विलास भुंजग</GrowerName>
+      <GrowerCode>20020</GrowerCode>
+      <GrowerName>माने राधाबाई कल्याण</GrowerName>
+      <GrowerCode>39200</GrowerCode>
+      <GrowerName>माने रामदास लक्ष्मण</GrowerName>
+      <GrowerCode>30065</GrowerCode>
+      <GrowerName>माने रोहिदास लक्ष्मण</GrowerName>
+      <GrowerCode>39205</GrowerCode>
+      <GrowerName>मिंढे अलका शिवाजी</GrowerName>
+      <GrowerCode>20946</GrowerCode>
+      <GrowerName>यादव आदिकाबाई उत्तम</GrowerName>
+      <GrowerCode>20947</GrowerCode>
+      <GrowerName>यादव उत्तम भिवा</GrowerName>
+      <GrowerCode>19958</GrowerCode>
+      <GrowerName>यादव कुसुम गणपत</GrowerName>
+      <GrowerCode>20004</GrowerCode>
+      <GrowerName>यादव गणपत गुलाबराव</GrowerName>
+      <GrowerCode>13056</GrowerCode>
+      <GrowerName>यादव दादा विष्णु</GrowerName>
+      <GrowerCode>19940</GrowerCode>
+      <GrowerName>यादव निर्मला तानाजी</GrowerName>
+      <GrowerCode>19997</GrowerCode>
+      <GrowerName>यादव बजरंग बळीराम</GrowerName>
+      <GrowerCode>20006</GrowerCode>
+      <GrowerName>यादव भगवान गणपत</GrowerName>
+      <GrowerCode>19995</GrowerCode>
+      <GrowerName>यादव भाऊसो बळीराम</GrowerName>
+      <GrowerCode>13197</GrowerCode>
+      <GrowerName>यादव भिवाजी किसन (not use)</GrowerName>
+      <GrowerCode>19938</GrowerCode>
+      <GrowerName>यादव मोहन किसन</GrowerName>
+      <GrowerCode>8298</GrowerCode>
+      <GrowerName>यादव शिवाजी किसन</GrowerName>
+      <GrowerCode>21829</GrowerCode>
+      <GrowerName>यादव सिमा आबासो</GrowerName>
+      <GrowerCode>23060</GrowerCode>
+      <GrowerName>येवले किर्ती बबन</GrowerName>
+      <GrowerCode>46301</GrowerCode>
+      <GrowerName>येवले प्रतिक बबन अ.पा.क किर्ती बबन</GrowerName>
+      <GrowerCode>20189</GrowerCode>
+      <GrowerName>राऊत दादा विठ्ठल</GrowerName>
+      <GrowerCode>33569</GrowerCode>
+      <GrowerName>राऊत बाळु बबन</GrowerName>
+      <GrowerCode>20103</GrowerCode>
+      <GrowerName>लांडे उत्तम लालजी</GrowerName>
+      <GrowerCode>13101</GrowerCode>
+      <GrowerName>लांडे/भोसले तात्याबा भगवान</GrowerName>
+      <GrowerCode>20153</GrowerCode>
+      <GrowerName>लांबकाणे बाळा सुदाम</GrowerName>
+      <GrowerCode>20146</GrowerCode>
+      <GrowerName>लामकाणे बाळू सुदाम</GrowerName>
+      <GrowerCode>8645</GrowerCode>
+      <GrowerName>लोंढे गणेश धोंडीबा</GrowerName>
+      <GrowerCode>12215</GrowerCode>
+      <GrowerName>वाकळे कैलास देवराम</GrowerName>
+      <GrowerCode>19964</GrowerCode>
+      <GrowerName>वाकळे नामदेव देवराम</GrowerName>
+      <GrowerCode>10981</GrowerCode>
+      <GrowerName>वाकळे बाळु देवराम</GrowerName>
+      <GrowerCode>28323</GrowerCode>
+      <GrowerName>वाळके उत्तम माधव</GrowerName>
+      <GrowerCode>45999</GrowerCode>
+      <GrowerName>वाळके तुकाराम मोहन</GrowerName>
+      <GrowerCode>13162</GrowerCode>
+      <GrowerName>वाळके रामदास महादेव</GrowerName>
+      <GrowerCode>21822</GrowerCode>
+      <GrowerName>वाळके वनिता ज्ञानेश्वर</GrowerName>
+      <GrowerCode>22702</GrowerCode>
+      <GrowerName>वाळके सरस्वती वामन</GrowerName>
+      <GrowerCode>41524</GrowerCode>
+      <GrowerName>वाळके सुमन शहाजी</GrowerName>
+      <GrowerCode>41441</GrowerCode>
+      <GrowerName>वाळके सुमिता शहाजी</GrowerName>
+      <GrowerCode>20186</GrowerCode>
+      <GrowerName>वाळुंजकर काशिनाथ भुजंग</GrowerName>
+      <GrowerCode>20165</GrowerCode>
+      <GrowerName>शिर्के मोहन विश्वनाथ</GrowerName>
+      <GrowerCode>16323</GrowerCode>
+      <GrowerName>शेळके राहुल रामदास</GrowerName>
+      <GrowerCode>39985</GrowerCode>
+      <GrowerName>शेळके लव्हा रामदास</GrowerName>
+      <GrowerCode>22703</GrowerCode>
+      <GrowerName>सरोदे दत्तात्रय विष्णु</GrowerName>
+      <GrowerCode>20089</GrowerCode>
+      <GrowerName>साबळे दत्तु शंकर</GrowerName>
+      <GrowerCode>20090</GrowerCode>
+      <GrowerName>साबळे सतिश शंकर</GrowerName>
+      <GrowerCode>13166</GrowerCode>
+      <GrowerName>साळुंके बबन शिरसु</GrowerName>
+      <GrowerCode>20175</GrowerCode>
+      <GrowerName>सुर्यवंशी सोमनाथ शंकर</GrowerName>
+      <GrowerCode>21823</GrowerCode>
+      <GrowerName>हगवणे पदमा बाळासो</GrowerName>
+    </VillageCode>
+    <VillageCode Code="868">
+      <GrowerCode>46637</GrowerCode>
+      <GrowerName>कामठे दत्तात्रय एकनाथ</GrowerName>
+      <GrowerCode>45227</GrowerCode>
+      <GrowerName>गुजर माया संपत</GrowerName>
+      <GrowerCode>36200</GrowerCode>
+      <GrowerName>बाबर नेताजी शिवाजी</GrowerName>
+      <GrowerCode>40571</GrowerCode>
+      <GrowerName>वसंतदादा शुगर इन्स्टिट्युट, पुणे</GrowerName>
+    </VillageCode>
+  </GatCode>
+  <GatCode Code="2">
+    <VillageCode Code="7">
+      <GrowerCode>1971</GrowerCode>
+      <GrowerName>आगरवाल गिरीश जगदीशप्रसाद</GrowerName>
+      <GrowerCode>2467</GrowerCode>
+      <GrowerName>आटोळे सोमनाथ लक्ष्मण</GrowerName>
+      <GrowerCode>22978</GrowerCode>
+      <GrowerName>इंगवले महादेव शंकर (Not in Use)</GrowerName>
+      <GrowerCode>1986</GrowerCode>
+      <GrowerName>इंगुले महादेव शंकर</GrowerName>
+      <GrowerCode>22383</GrowerCode>
+      <GrowerName>ओझा राजेंद्र खिवराज</GrowerName>
+      <GrowerCode>22385</GrowerCode>
+      <GrowerName>ओझा शोभा राजेंद्र</GrowerName>
+      <GrowerCode>11223</GrowerCode>
+      <GrowerName>काकडे निवास दत्ताजी</GrowerName>
+      <GrowerCode>1967</GrowerCode>
+      <GrowerName>काकडे श्रीनिवास दत्ताजी</GrowerName>
+      <GrowerCode>11241</GrowerCode>
+      <GrowerName>काटे कांताबाई तुकाराम</GrowerName>
+      <GrowerCode>11247</GrowerCode>
+      <GrowerName>काटे गणपत श्रीरंग </GrowerName>
+      <GrowerCode>1951</GrowerCode>
+      <GrowerName>काटे ज्ञानदेव तात्याबा</GrowerName>
+      <GrowerCode>1975</GrowerCode>
+      <GrowerName>काटे तानाजी गणपत</GrowerName>
+      <GrowerCode>1962</GrowerCode>
+      <GrowerName>काटे दत्तु भाऊसाहेब</GrowerName>
+      <GrowerCode>22390</GrowerCode>
+      <GrowerName>काटे दिपक गोरख</GrowerName>
+      <GrowerCode>1983</GrowerCode>
+      <GrowerName>काटे बाळासाहेब ज्ञानदेव </GrowerName>
+      <GrowerCode>1872</GrowerCode>
+      <GrowerName>काटे मधुकर गोरख</GrowerName>
+      <GrowerCode>2003</GrowerCode>
+      <GrowerName>काटे राजेंद्र नारायण</GrowerName>
+      <GrowerCode>19827</GrowerCode>
+      <GrowerName>काटे रामकृष्ण विठ्ठल</GrowerName>
+      <GrowerCode>1886</GrowerCode>
+      <GrowerName>काटे रामचंद्र नामदेव</GrowerName>
+      <GrowerCode>40287</GrowerCode>
+      <GrowerName>काटे रुपाली रामचंद्र</GrowerName>
+      <GrowerCode>1974</GrowerCode>
+      <GrowerName>काटे लक्ष्मण नारायण</GrowerName>
+      <GrowerCode>40286</GrowerCode>
+      <GrowerName>काटे वंदना शिवाजी</GrowerName>
+      <GrowerCode>11221</GrowerCode>
+      <GrowerName>काटे विठ्ठल भाऊसो </GrowerName>
+      <GrowerCode>1995</GrowerCode>
+      <GrowerName>काटे शिवाजी नामदेव</GrowerName>
+      <GrowerCode>1987</GrowerCode>
+      <GrowerName>काटे संभाजी गणपत</GrowerName>
+      <GrowerCode>1869</GrowerCode>
+      <GrowerName>काटे सुदाम विठ्ठल </GrowerName>
+      <GrowerCode>2005</GrowerCode>
+      <GrowerName>काटे सुभाष नारायण</GrowerName>
+      <GrowerCode>38687</GrowerCode>
+      <GrowerName>काळे कमल दिपक</GrowerName>
+      <GrowerCode>25100</GrowerCode>
+      <GrowerName>काळे कमल धिकल्या</GrowerName>
+      <GrowerCode>8779</GrowerCode>
+      <GrowerName>काळे गुलाब मारुती</GrowerName>
+      <GrowerCode>22394</GrowerCode>
+      <GrowerName>काळे दिपक बाळासो</GrowerName>
+      <GrowerCode>22378</GrowerCode>
+      <GrowerName>काळे पाराजी मारुती</GrowerName>
+      <GrowerCode>19978</GrowerCode>
+      <GrowerName>काळे बनुबाई भिमराव</GrowerName>
+      <GrowerCode>22389</GrowerCode>
+      <GrowerName>काळे मधुकर गोरख</GrowerName>
+      <GrowerCode>1970</GrowerCode>
+      <GrowerName>काळे सुभाष बापु</GrowerName>
+      <GrowerCode>1944</GrowerCode>
+      <GrowerName>किंगरे तानाजी सोपान</GrowerName>
+      <GrowerCode>45691</GrowerCode>
+      <GrowerName>किंगरे प्रताप भगवान</GrowerName>
+      <GrowerCode>17558</GrowerCode>
+      <GrowerName>खराडे अर्जुन दशरथ</GrowerName>
+      <GrowerCode>11211</GrowerCode>
+      <GrowerName>खराडे दत्ताञय दशरथ</GrowerName>
+      <GrowerCode>40934</GrowerCode>
+      <GrowerName>खराडे दिपक विठ्ठल</GrowerName>
+      <GrowerCode>1977</GrowerCode>
+      <GrowerName>खराडे धनंजय दत्तात्रय</GrowerName>
+      <GrowerCode>11265</GrowerCode>
+      <GrowerName>खराडे धनंजय दत्तात्रय (Not in Use)</GrowerName>
+      <GrowerCode>8901</GrowerCode>
+      <GrowerName>खराडे पोपट विठ्ठल </GrowerName>
+      <GrowerCode>25654</GrowerCode>
+      <GrowerName>खराडे लक्ष्मीबाई दत्तात्रय</GrowerName>
+      <GrowerCode>22575</GrowerCode>
+      <GrowerName>खराडे विठ्ठल गणपत</GrowerName>
+      <GrowerCode>19813</GrowerCode>
+      <GrowerName>खराडे सदाशिव दशरथ</GrowerName>
+      <GrowerCode>1845</GrowerCode>
+      <GrowerName>खान अखिल नाझीर</GrowerName>
+      <GrowerCode>1864</GrowerCode>
+      <GrowerName>गटणे सुनिल शंकर</GrowerName>
+      <GrowerCode>11197</GrowerCode>
+      <GrowerName>गायकवाड प्रकाश रावसाहेब</GrowerName>
+      <GrowerCode>26063</GrowerCode>
+      <GrowerName>गावडे बबन राजाराम</GrowerName>
+      <GrowerCode>26419</GrowerCode>
+      <GrowerName>गौड अजय रविंद्र</GrowerName>
+      <GrowerCode>11228</GrowerCode>
+      <GrowerName>घाडगे निर्मला भिमराव</GrowerName>
+      <GrowerCode>1968</GrowerCode>
+      <GrowerName>घारगे निर्मला भिमराव</GrowerName>
+      <GrowerCode>2015</GrowerCode>
+      <GrowerName>घोंगडे अनिल दत्तात्रय </GrowerName>
+      <GrowerCode>2018</GrowerCode>
+      <GrowerName>घोंगडे रामभाऊ रखमाजी</GrowerName>
+      <GrowerCode>14487</GrowerCode>
+      <GrowerName>चव्हाण सुनंदा युवराज</GrowerName>
+      <GrowerCode>1946</GrowerCode>
+      <GrowerName>जगताप चंद्रकांत शंकर</GrowerName>
+      <GrowerCode>1980</GrowerCode>
+      <GrowerName>जगताप देविदास शंकर</GrowerName>
+      <GrowerCode>1985</GrowerCode>
+      <GrowerName>जगताप नितीन नारायण</GrowerName>
+      <GrowerCode>1953</GrowerCode>
+      <GrowerName>जगताप शिवाजी शंकर</GrowerName>
+      <GrowerCode>46290</GrowerCode>
+      <GrowerName>जगताप संतोष नारायण</GrowerName>
+      <GrowerCode>19696</GrowerCode>
+      <GrowerName>जगताप सविता शिवाजी</GrowerName>
+      <GrowerCode>22391</GrowerCode>
+      <GrowerName>जगताप सिंधुबाई देविदास</GrowerName>
+      <GrowerCode>1233</GrowerCode>
+      <GrowerName>जगताप सुलोचना रामभाऊ</GrowerName>
+      <GrowerCode>32811</GrowerCode>
+      <GrowerName>जगताप हिराबाई नरसिंग</GrowerName>
+      <GrowerCode>1988</GrowerCode>
+      <GrowerName>जगदाळे अंकुश सर्जेराव</GrowerName>
+      <GrowerCode>1933</GrowerCode>
+      <GrowerName>जगदाळे अंजना विठ्ठल</GrowerName>
+      <GrowerCode>22393</GrowerCode>
+      <GrowerName>जगदाळे अजंना विठ्ठल (Not in Use)</GrowerName>
+      <GrowerCode>1878</GrowerCode>
+      <GrowerName>जगदाळे अनिल संभाजी</GrowerName>
+      <GrowerCode>1855</GrowerCode>
+      <GrowerName>जगदाळे अशोक बाबुराव</GrowerName>
+      <GrowerCode>2011</GrowerCode>
+      <GrowerName>जगदाळे अशोक रघुनाथ</GrowerName>
+      <GrowerCode>22386</GrowerCode>
+      <GrowerName>जगदाळे अहिल्या गणपतराव</GrowerName>
+      <GrowerCode>46399</GrowerCode>
+      <GrowerName>जगदाळे आशा भगवान</GrowerName>
+      <GrowerCode>1992</GrowerCode>
+      <GrowerName>जगदाळे आशाबाई भिकु</GrowerName>
+      <GrowerCode>1849</GrowerCode>
+      <GrowerName>जगदाळे एकनाथ बाळासाहेब</GrowerName>
+      <GrowerCode>19736</GrowerCode>
+      <GrowerName>जगदाळे काकासो रामदास</GrowerName>
+      <GrowerCode>1859</GrowerCode>
+      <GrowerName>जगदाळे काशीनाथ जगन्नाथ</GrowerName>
+      <GrowerCode>11208</GrowerCode>
+      <GrowerName>जगदाळे किसन एकनाथ</GrowerName>
+      <GrowerCode>1920</GrowerCode>
+      <GrowerName>जगदाळे कृष्णा भगवान</GrowerName>
+      <GrowerCode>11156</GrowerCode>
+      <GrowerName>जगदाळे केशरबाई रामदास</GrowerName>
+      <GrowerCode>1926</GrowerCode>
+      <GrowerName>जगदाळे कैलास भगवान</GrowerName>
+      <GrowerCode>1885</GrowerCode>
+      <GrowerName>जगदाळे कौशल्या ईश्वर</GrowerName>
+      <GrowerCode>11379</GrowerCode>
+      <GrowerName>जगदाळे गोपिनाथ सोपाना</GrowerName>
+      <GrowerCode>39364</GrowerCode>
+      <GrowerName>जगदाळे चंद्रकला अशोक</GrowerName>
+      <GrowerCode>1203</GrowerCode>
+      <GrowerName>जगदाळे चंद्रसेन निवृत्ती</GrowerName>
+      <GrowerCode>2006</GrowerCode>
+      <GrowerName>जगदाळे ज्ञानदेव गोपाळ</GrowerName>
+      <GrowerCode>22573</GrowerCode>
+      <GrowerName>जगदाळे ज्ञानदेव राघोबा</GrowerName>
+      <GrowerCode>1929</GrowerCode>
+      <GrowerName>जगदाळे ज्ञानेश्वर बाळासाहेब</GrowerName>
+      <GrowerCode>1917</GrowerCode>
+      <GrowerName>जगदाळे दत्तात्रय बाळासाहेब </GrowerName>
+      <GrowerCode>6327</GrowerCode>
+      <GrowerName>जगदाळे दत्तु भगवान</GrowerName>
+      <GrowerCode>1963</GrowerCode>
+      <GrowerName>जगदाळे दत्तु भाऊसाहेब</GrowerName>
+      <GrowerCode>1923</GrowerCode>
+      <GrowerName>जगदाळे दत्तु शांताराम</GrowerName>
+      <GrowerCode>22382</GrowerCode>
+      <GrowerName>जगदाळे दादा जयवंत</GrowerName>
+      <GrowerCode>1870</GrowerCode>
+      <GrowerName>जगदाळे नंदा सुरेश</GrowerName>
+      <GrowerCode>2014</GrowerCode>
+      <GrowerName>जगदाळे नारायण आबासाहेब</GrowerName>
+      <GrowerCode>1857</GrowerCode>
+      <GrowerName>जगदाळे नारायण महादेव </GrowerName>
+      <GrowerCode>1935</GrowerCode>
+      <GrowerName>जगदाळे नारायण सोपान</GrowerName>
+      <GrowerCode>19697</GrowerCode>
+      <GrowerName>जगदाळे परिघाबाई मल्हारी</GrowerName>
+      <GrowerCode>1947</GrowerCode>
+      <GrowerName>जगदाळे पांडुरंग बबन</GrowerName>
+      <GrowerCode>1918</GrowerCode>
+      <GrowerName>जगदाळे पोपट सर्जेराव</GrowerName>
+      <GrowerCode>1890</GrowerCode>
+      <GrowerName>जगदाळे प्रदिप शिवाजी</GrowerName>
+      <GrowerCode>1866</GrowerCode>
+      <GrowerName>जगदाळे प्रभाकर महादेव</GrowerName>
+      <GrowerCode>19735</GrowerCode>
+      <GrowerName>जगदाळे बिभिशन व्यंकटराव</GrowerName>
+      <GrowerCode>1852</GrowerCode>
+      <GrowerName>जगदाळे भगवान सर्जेराव</GrowerName>
+      <GrowerCode>1969</GrowerCode>
+      <GrowerName>जगदाळे भाऊसाहेब महादेव</GrowerName>
+      <GrowerCode>1998</GrowerCode>
+      <GrowerName>जगदाळे मधुकर रघुनाथ</GrowerName>
+      <GrowerCode>34141</GrowerCode>
+      <GrowerName>जगदाळे मनिषा राजेंद्र</GrowerName>
+      <GrowerCode>19686</GrowerCode>
+      <GrowerName>जगदाळे मनोज प्रकाश</GrowerName>
+      <GrowerCode>9686</GrowerCode>
+      <GrowerName>जगदाळे महादेव रावसाहेब</GrowerName>
+      <GrowerCode>21523</GrowerCode>
+      <GrowerName>जगदाळे महेंद्र बाळासाहेब</GrowerName>
+      <GrowerCode>1990</GrowerCode>
+      <GrowerName>जगदाळे महेंद्र शिवाजी</GrowerName>
+      <GrowerCode>11350</GrowerCode>
+      <GrowerName>जगदाळे मोहन रामचंद्र</GrowerName>
+      <GrowerCode>1954</GrowerCode>
+      <GrowerName>जगदाळे मोहन रावसाहेब</GrowerName>
+      <GrowerCode>1914</GrowerCode>
+      <GrowerName>जगदाळे रंजना संभाजी</GrowerName>
+      <GrowerCode>26118</GrowerCode>
+      <GrowerName>जगदाळे रविंद्र गोपीनाथ</GrowerName>
+      <GrowerCode>11262</GrowerCode>
+      <GrowerName>जगदाळे रविंद्र व्यंकटराव</GrowerName>
+      <GrowerCode>1883</GrowerCode>
+      <GrowerName>जगदाळे राजेंद्र भुजंग</GrowerName>
+      <GrowerCode>11245</GrowerCode>
+      <GrowerName>जगदाळे राजेंद्र रामदास</GrowerName>
+      <GrowerCode>34710</GrowerCode>
+      <GrowerName>जगदाळे रामकृष्ण शांताराम</GrowerName>
+      <GrowerCode>38691</GrowerCode>
+      <GrowerName>जगदाळे रामचंद्र ईश्वर</GrowerName>
+      <GrowerCode>2002</GrowerCode>
+      <GrowerName>जगदाळे रामदास मारुती</GrowerName>
+      <GrowerCode>1873</GrowerCode>
+      <GrowerName>जगदाळे राहुल गणपत</GrowerName>
+      <GrowerCode>1850</GrowerCode>
+      <GrowerName>जगदाळे राहुल श्रीहरी</GrowerName>
+      <GrowerCode>19811</GrowerCode>
+      <GrowerName>जगदाळे रुक्मीणीबाई शांताराम</GrowerName>
+      <GrowerCode>11329</GrowerCode>
+      <GrowerName>जगदाळे लक्ष्मण ईश्वर</GrowerName>
+      <GrowerCode>1964</GrowerCode>
+      <GrowerName>जगदाळे लक्ष्मण गोपाळ</GrowerName>
+      <GrowerCode>1925</GrowerCode>
+      <GrowerName>जगदाळे लक्ष्मण सोपान</GrowerName>
+      <GrowerCode>1979</GrowerCode>
+      <GrowerName>जगदाळे विकास ज्ञानदेव</GrowerName>
+      <GrowerCode>19716</GrowerCode>
+      <GrowerName>जगदाळे विक्रम मोहन</GrowerName>
+      <GrowerCode>1939</GrowerCode>
+      <GrowerName>जगदाळे विजय माणिक</GrowerName>
+      <GrowerCode>1948</GrowerCode>
+      <GrowerName>जगदाळे विठ्ठल गोरख</GrowerName>
+      <GrowerCode>19669</GrowerCode>
+      <GrowerName>जगदाळे विठ्ठल गोरख</GrowerName>
+      <GrowerCode>1952</GrowerCode>
+      <GrowerName>जगदाळे विठ्ठल निवृत्ती</GrowerName>
+      <GrowerCode>1961</GrowerCode>
+      <GrowerName>जगदाळे विलास भगवान</GrowerName>
+      <GrowerCode>1924</GrowerCode>
+      <GrowerName>जगदाळे शंकर बापु</GrowerName>
+      <GrowerCode>2013</GrowerCode>
+      <GrowerName>जगदाळे शंकर बाबुराव</GrowerName>
+      <GrowerCode>46289</GrowerCode>
+      <GrowerName>जगदाळे शरद काशिनाथ</GrowerName>
+      <GrowerCode>1862</GrowerCode>
+      <GrowerName>जगदाळे शरद जगन्नाथ</GrowerName>
+      <GrowerCode>1875</GrowerCode>
+      <GrowerName>जगदाळे शशिकांत संभाजी</GrowerName>
+      <GrowerCode>11314</GrowerCode>
+      <GrowerName>जगदाळे शहाजी शिवाजी</GrowerName>
+      <GrowerCode>1887</GrowerCode>
+      <GrowerName>जगदाळे शहाजी संभाजी</GrowerName>
+      <GrowerCode>45068</GrowerCode>
+      <GrowerName>जगदाळे शांताराम सगु</GrowerName>
+      <GrowerCode>1965</GrowerCode>
+      <GrowerName>जगदाळे शैला त्रिंबक</GrowerName>
+      <GrowerCode>11349</GrowerCode>
+      <GrowerName>जगदाळे शोभा मोहन </GrowerName>
+      <GrowerCode>1949</GrowerCode>
+      <GrowerName>जगदाळे संजय गोरख</GrowerName>
+      <GrowerCode>11224</GrowerCode>
+      <GrowerName>जगदाळे संतोष रामचंद्र</GrowerName>
+      <GrowerCode>967</GrowerCode>
+      <GrowerName>जगदाळे संदिप जालिंदर</GrowerName>
+      <GrowerCode>1960</GrowerCode>
+      <GrowerName>जगदाळे संदिप शिवाजी</GrowerName>
+      <GrowerCode>1958</GrowerCode>
+      <GrowerName>जगदाळे संभाजी बाळासाहेब</GrowerName>
+      <GrowerCode>11150</GrowerCode>
+      <GrowerName>जगदाळे सचिन नारायण</GrowerName>
+      <GrowerCode>11268</GrowerCode>
+      <GrowerName>जगदाळे सारीका सुभाष</GrowerName>
+      <GrowerCode>1894</GrowerCode>
+      <GrowerName>जगदाळे सुभाष श्रीहरी</GrowerName>
+      <GrowerCode>2001</GrowerCode>
+      <GrowerName>जगदाळे सुरेश बाजीराव</GrowerName>
+      <GrowerCode>1922</GrowerCode>
+      <GrowerName>जगदाळे सुरेश बाबुराव</GrowerName>
+      <GrowerCode>11184</GrowerCode>
+      <GrowerName>जगदाळे सुलोचना महादेव</GrowerName>
+      <GrowerCode>1984</GrowerCode>
+      <GrowerName>जगदाळे सुहास ज्ञानदेव</GrowerName>
+      <GrowerCode>11202</GrowerCode>
+      <GrowerName>जगदाळे हनुमंत जयवंत</GrowerName>
+      <GrowerCode>1981</GrowerCode>
+      <GrowerName>जगदाळे हनुमंत तुकाराम</GrowerName>
+      <GrowerCode>1959</GrowerCode>
+      <GrowerName>जगदाळे हरिदास तुकाराम</GrowerName>
+      <GrowerCode>1966</GrowerCode>
+      <GrowerName>जगदाळे हिराबाई लक्ष्मण</GrowerName>
+      <GrowerCode>6516</GrowerCode>
+      <GrowerName>जठार कुंडलिक मल्हारी</GrowerName>
+      <GrowerCode>1847</GrowerCode>
+      <GrowerName>जठार कौशल्या लक्ष्मण </GrowerName>
+      <GrowerCode>6517</GrowerCode>
+      <GrowerName>जठार पंढरीनाथ मल्हारी</GrowerName>
+      <GrowerCode>2007</GrowerCode>
+      <GrowerName>जाधव धनंजय प्रल्हाद</GrowerName>
+      <GrowerCode>29944</GrowerCode>
+      <GrowerName>जाधव रेखा धनंजय</GrowerName>
+      <GrowerCode>9247</GrowerCode>
+      <GrowerName>ढगे दिलिप तुळशीराम</GrowerName>
+      <GrowerCode>39436</GrowerCode>
+      <GrowerName>ढगे दिलीप बबन</GrowerName>
+      <GrowerCode>39437</GrowerCode>
+      <GrowerName>ढगे नवनाथ बबन</GrowerName>
+      <GrowerCode>1891</GrowerCode>
+      <GrowerName>ढगे विनोद बबन </GrowerName>
+      <GrowerCode>19823</GrowerCode>
+      <GrowerName>धायतोंडे विश्वनाथ पोपट</GrowerName>
+      <GrowerCode>1853</GrowerCode>
+      <GrowerName>नांदखिले महादेव मारुती</GrowerName>
+      <GrowerCode>1940</GrowerCode>
+      <GrowerName>नांदखिले शामराव रंगनाथ</GrowerName>
+      <GrowerCode>11252</GrowerCode>
+      <GrowerName>निंबाळकर कलावती दत्तात्रय</GrowerName>
+      <GrowerCode>26540</GrowerCode>
+      <GrowerName>पाटोळे मनोज प्रकाश</GrowerName>
+      <GrowerCode>32756</GrowerCode>
+      <GrowerName>पासलकर दिलीप लक्ष्मण</GrowerName>
+      <GrowerCode>2000</GrowerCode>
+      <GrowerName>पासलकर धोंडिबा राजबा</GrowerName>
+      <GrowerCode>1993</GrowerCode>
+      <GrowerName>पासलकर पांडुरंग लक्ष्मण</GrowerName>
+      <GrowerCode>11174</GrowerCode>
+      <GrowerName>पासलकर मारुती लक्ष्मण </GrowerName>
+      <GrowerCode>23179</GrowerCode>
+      <GrowerName>पासलकर संजय लक्ष्मण</GrowerName>
+      <GrowerCode>23178</GrowerCode>
+      <GrowerName>पासलकर सुलोचना लक्ष्मण</GrowerName>
+      <GrowerCode>1879</GrowerCode>
+      <GrowerName>पिंगळे सुनिल धोंडिबा</GrowerName>
+      <GrowerCode>6768</GrowerCode>
+      <GrowerName>पिंगळे सुमन धोंडिबा</GrowerName>
+      <GrowerCode>2010</GrowerCode>
+      <GrowerName>बारवकर अनिल किसन</GrowerName>
+      <GrowerCode>2009</GrowerCode>
+      <GrowerName>बारवकर पोपट किसन</GrowerName>
+      <GrowerCode>6016</GrowerCode>
+      <GrowerName>बारवकर बाळासाहेब यादव</GrowerName>
+      <GrowerCode>1943</GrowerCode>
+      <GrowerName>बारवकर यादव दशरथ</GrowerName>
+      <GrowerCode>1999</GrowerCode>
+      <GrowerName>बारवकर रामदास माधव</GrowerName>
+      <GrowerCode>39085</GrowerCode>
+      <GrowerName>बारवकर लक्ष्मण यादव</GrowerName>
+      <GrowerCode>1982</GrowerCode>
+      <GrowerName>भागवत दत्तात्रय दगडोबा</GrowerName>
+      <GrowerCode>11165</GrowerCode>
+      <GrowerName>भागवत माणिक आप्पा</GrowerName>
+      <GrowerCode>40849</GrowerCode>
+      <GrowerName>भागवत शरद सोनबा</GrowerName>
+      <GrowerCode>1884</GrowerCode>
+      <GrowerName>माने दादा जगन्नाथ</GrowerName>
+      <GrowerCode>39438</GrowerCode>
+      <GrowerName>मेरगळ संतोष तुकाराम</GrowerName>
+      <GrowerCode>11164</GrowerCode>
+      <GrowerName>लोंढे अर्जुन ज्ञानदेव</GrowerName>
+      <GrowerCode>1893</GrowerCode>
+      <GrowerName>लोंढे कृष्णा बाजीराव</GrowerName>
+      <GrowerCode>11161</GrowerCode>
+      <GrowerName>लोंढे गुलाब ज्ञानदेव</GrowerName>
+      <GrowerCode>26115</GrowerCode>
+      <GrowerName>लोंढे तुकाराम महादेव</GrowerName>
+      <GrowerCode>1945</GrowerCode>
+      <GrowerName>लोंढे तुकाराम माधव</GrowerName>
+      <GrowerCode>13688</GrowerCode>
+      <GrowerName>लोंढे दादाराम माधव</GrowerName>
+      <GrowerCode>1915</GrowerCode>
+      <GrowerName>लोंढे पोपट सर्जेराव</GrowerName>
+      <GrowerCode>13689</GrowerCode>
+      <GrowerName>लोंढे बाळासो माधव</GrowerName>
+      <GrowerCode>1938</GrowerCode>
+      <GrowerName>लोंढे बेबी पुरुषोत्तम</GrowerName>
+      <GrowerCode>1877</GrowerCode>
+      <GrowerName>लोंढे राजेंद्र विठ्ठल</GrowerName>
+      <GrowerCode>11153</GrowerCode>
+      <GrowerName>लोंढे वसंत तुकाराम</GrowerName>
+      <GrowerCode>11158</GrowerCode>
+      <GrowerName>लोंढे विजय पुरुषोत्तम</GrowerName>
+      <GrowerCode>1934</GrowerCode>
+      <GrowerName>लोंढे शहाजी सर्जेराव</GrowerName>
+      <GrowerCode>1874</GrowerCode>
+      <GrowerName>लोंढे शिवाजी बाजीराव</GrowerName>
+      <GrowerCode>1955</GrowerCode>
+      <GrowerName>लोंढे संभाजी सर्जेराव</GrowerName>
+      <GrowerCode>11159</GrowerCode>
+      <GrowerName>लोंढे सचिन पुरुषोत्तम </GrowerName>
+      <GrowerCode>1937</GrowerCode>
+      <GrowerName>लोंढे सोपान बाजीराव</GrowerName>
+      <GrowerCode>11327</GrowerCode>
+      <GrowerName>लोंढ़े संभाजी सर्जेराव</GrowerName>
+      <GrowerCode>22396</GrowerCode>
+      <GrowerName>वत्रे कमल पांडुरंग</GrowerName>
+      <GrowerCode>1957</GrowerCode>
+      <GrowerName>वत्रे पांडुरंग शंकर</GrowerName>
+      <GrowerCode>1950</GrowerCode>
+      <GrowerName>वत्रे बापु मारुती</GrowerName>
+      <GrowerCode>41477</GrowerCode>
+      <GrowerName>वत्रे बाळु बापु</GrowerName>
+      <GrowerCode>1976</GrowerCode>
+      <GrowerName>वत्रे भिकन दिनकर</GrowerName>
+      <GrowerCode>14783</GrowerCode>
+      <GrowerName>वत्रे मारुती महादेव</GrowerName>
+      <GrowerCode>1978</GrowerCode>
+      <GrowerName>वत्रे मोहन दिनकर</GrowerName>
+      <GrowerCode>19831</GrowerCode>
+      <GrowerName>वत्रे रंजना मारुती</GrowerName>
+      <GrowerCode>39086</GrowerCode>
+      <GrowerName>वत्रे रुक्मीणी सोपान</GrowerName>
+      <GrowerCode>1861</GrowerCode>
+      <GrowerName>वत्रे शंकर दिनकर</GrowerName>
+      <GrowerCode>1991</GrowerCode>
+      <GrowerName>वत्रे शालन शिवाजी</GrowerName>
+      <GrowerCode>19818</GrowerCode>
+      <GrowerName>वत्रे शिवाजी दिनकर</GrowerName>
+      <GrowerCode>1858</GrowerCode>
+      <GrowerName>वत्रे संदिप विठ्ठल</GrowerName>
+      <GrowerCode>22398</GrowerCode>
+      <GrowerName>वत्रे सुर्यकांत मोहन</GrowerName>
+      <GrowerCode>34138</GrowerCode>
+      <GrowerName>शितोळे पार्वती हनुमंत</GrowerName>
+      <GrowerCode>1928</GrowerCode>
+      <GrowerName>शितोळे बाबासाहेब मारुती</GrowerName>
+      <GrowerCode>1856</GrowerCode>
+      <GrowerName>शेंडगे जनाबाई लक्ष्मण(NOT-USE)</GrowerName>
+      <GrowerCode>2008</GrowerCode>
+      <GrowerName>शेख आबुबकर चांद</GrowerName>
+      <GrowerCode>1997</GrowerCode>
+      <GrowerName>सांगळे ज्ञानदेव गोपाळराव</GrowerName>
+      <GrowerCode>11178</GrowerCode>
+      <GrowerName>सांळुके तुकाराम आनंतराव</GrowerName>
+      <GrowerCode>11263</GrowerCode>
+      <GrowerName>सांळुके नारायण हरिभाऊ</GrowerName>
+      <GrowerCode>11185</GrowerCode>
+      <GrowerName>सांळुके माधव गणेश</GrowerName>
+      <GrowerCode>11260</GrowerCode>
+      <GrowerName>सांळुके मिलिंद विठ्ठल</GrowerName>
+      <GrowerCode>11235</GrowerCode>
+      <GrowerName>सांळुके विरधवल सुभाष</GrowerName>
+      <GrowerCode>1941</GrowerCode>
+      <GrowerName>सातपुते किशोरी ज्ञानेश्वर</GrowerName>
+      <GrowerCode>1942</GrowerCode>
+      <GrowerName>सातपुते संगिता निवृत्ती</GrowerName>
+      <GrowerCode>2004</GrowerCode>
+      <GrowerName>साबळे बाळु बापु</GrowerName>
+      <GrowerCode>1854</GrowerCode>
+      <GrowerName>साळंुके माधव गणेश</GrowerName>
+      <GrowerCode>29999</GrowerCode>
+      <GrowerName>साळुंके अमोल सुभाष</GrowerName>
+      <GrowerCode>1989</GrowerCode>
+      <GrowerName>साळुंके तुकाराम अनंता</GrowerName>
+      <GrowerCode>1994</GrowerCode>
+      <GrowerName>साळुंके नारायण हरिभाऊ</GrowerName>
+      <GrowerCode>5877</GrowerCode>
+      <GrowerName>साळुंके माधव गणेश</GrowerName>
+      <GrowerCode>1972</GrowerCode>
+      <GrowerName>साळुंके मिलींद विठ्ठल </GrowerName>
+      <GrowerCode>1973</GrowerCode>
+      <GrowerName>साळुंके विठ्ठल हरिभाऊ</GrowerName>
+      <GrowerCode>2012</GrowerCode>
+      <GrowerName>साळुंके विरधवल सुभाष</GrowerName>
+      <GrowerCode>22577</GrowerCode>
+      <GrowerName>साळुंके सुधामती नारायण</GrowerName>
+    </VillageCode>
+    <VillageCode Code="8">
+      <GrowerCode>22538</GrowerCode>
+      <GrowerName>क-हे शकुंतला पुनाजी </GrowerName>
+      <GrowerCode>39970</GrowerCode>
+      <GrowerName>करे शकुंतला पुनाजी</GrowerName>
+      <GrowerCode>1041</GrowerCode>
+      <GrowerName>कुलकर्णी वंदना रविंद्र</GrowerName>
+      <GrowerCode>16568</GrowerCode>
+      <GrowerName>कोळेकर विवेक अनंता</GrowerName>
+      <GrowerCode>1044</GrowerCode>
+      <GrowerName>गटणे अतुल रामकृष्ण</GrowerName>
+      <GrowerCode>11501</GrowerCode>
+      <GrowerName>गायकवाड राजु भानुदास</GrowerName>
+      <GrowerCode>927</GrowerCode>
+      <GrowerName>गायकवाड शिवदास रावसाहेब</GrowerName>
+      <GrowerCode>934</GrowerCode>
+      <GrowerName>गावडे राजू चंदर</GrowerName>
+      <GrowerCode>995</GrowerCode>
+      <GrowerName>गुंड पंढरीनाथ यशवंत</GrowerName>
+      <GrowerCode>938</GrowerCode>
+      <GrowerName>घोरपडे सुनिल शिवाजी</GrowerName>
+      <GrowerCode>925</GrowerCode>
+      <GrowerName>चव्हाण जयराम समीर</GrowerName>
+      <GrowerCode>1022</GrowerCode>
+      <GrowerName>जगताप अनिल मारूती</GrowerName>
+      <GrowerCode>1152</GrowerCode>
+      <GrowerName>जगताप अशोक नामदेव</GrowerName>
+      <GrowerCode>966</GrowerCode>
+      <GrowerName>जगताप आदिकाबाई पांडूरंग</GrowerName>
+      <GrowerCode>1015</GrowerCode>
+      <GrowerName>जगताप कांतिलाल बाबुराव</GrowerName>
+      <GrowerCode>1030</GrowerCode>
+      <GrowerName>जगताप काशिनाथ कोंडीबा</GrowerName>
+      <GrowerCode>1127</GrowerCode>
+      <GrowerName>जगताप चंद्रकांत गोरख</GrowerName>
+      <GrowerCode>1126</GrowerCode>
+      <GrowerName>जगताप तात्याराम दिगांबर</GrowerName>
+      <GrowerCode>946</GrowerCode>
+      <GrowerName>जगताप तुकाराम सर्जेराव</GrowerName>
+      <GrowerCode>1005</GrowerCode>
+      <GrowerName>जगताप दिलिप नामदेव</GrowerName>
+      <GrowerCode>964</GrowerCode>
+      <GrowerName>जगताप पांडूरंग वामन</GrowerName>
+      <GrowerCode>1029</GrowerCode>
+      <GrowerName>जगताप बिभीषण बाबुराव</GrowerName>
+      <GrowerCode>1187</GrowerCode>
+      <GrowerName>जगताप भुजंग भगवान</GrowerName>
+      <GrowerCode>1176</GrowerCode>
+      <GrowerName>जगताप भुजंग सर्जेराव</GrowerName>
+      <GrowerCode>978</GrowerCode>
+      <GrowerName>जगताप महादेव भगवान</GrowerName>
+      <GrowerCode>1016</GrowerCode>
+      <GrowerName>जगताप राजू भगवान</GrowerName>
+      <GrowerCode>1035</GrowerCode>
+      <GrowerName>जगताप रामदास बाबुराव</GrowerName>
+      <GrowerCode>681</GrowerCode>
+      <GrowerName>जगताप विलास मारुती</GrowerName>
+      <GrowerCode>960</GrowerCode>
+      <GrowerName>जगताप शोभा पांडूरंग</GrowerName>
+      <GrowerCode>1166</GrowerCode>
+      <GrowerName>जगताप संजय नारायण</GrowerName>
+      <GrowerCode>1115</GrowerCode>
+      <GrowerName>जगताप संजय भगवान</GrowerName>
+      <GrowerCode>1128</GrowerCode>
+      <GrowerName>जगताप संतोष मारुती</GrowerName>
+      <GrowerCode>1442</GrowerCode>
+      <GrowerName>जगताप संभाजी भानुदास</GrowerName>
+      <GrowerCode>1114</GrowerCode>
+      <GrowerName>जगताप सदाशिव भगवान</GrowerName>
+      <GrowerCode>1132</GrowerCode>
+      <GrowerName>जगताप सुनिल नामदेव</GrowerName>
+      <GrowerCode>1026</GrowerCode>
+      <GrowerName>जगताप सुभाष कोंडीबा</GrowerName>
+      <GrowerCode>987</GrowerCode>
+      <GrowerName>जगदाळे अंकुश रामचंद्र</GrowerName>
+      <GrowerCode>1177</GrowerCode>
+      <GrowerName>जगदाळे अलकाबाई बाळकृष्ण</GrowerName>
+      <GrowerCode>1443</GrowerCode>
+      <GrowerName>जगदाळे अशोक साहेबराव</GrowerName>
+      <GrowerCode>1070</GrowerCode>
+      <GrowerName>जगदाळे इंद्रजित कृष्णराव</GrowerName>
+      <GrowerCode>983</GrowerCode>
+      <GrowerName>जगदाळे उमेश अंकुश</GrowerName>
+      <GrowerCode>6328</GrowerCode>
+      <GrowerName>जगदाळे कांता शरद</GrowerName>
+      <GrowerCode>32815</GrowerCode>
+      <GrowerName>जगदाळे गणेश दत्तात्रय</GrowerName>
+      <GrowerCode>985</GrowerCode>
+      <GrowerName>जगदाळे घनशाम रामचंद्र</GrowerName>
+      <GrowerCode>961</GrowerCode>
+      <GrowerName>जगदाळे जगन्नाथ दगडू</GrowerName>
+      <GrowerCode>956</GrowerCode>
+      <GrowerName>जगदाळे जालिंदर रामचंद्र</GrowerName>
+      <GrowerCode>11359</GrowerCode>
+      <GrowerName>जगदाळे ज्ञानेश्वर बाबु</GrowerName>
+      <GrowerCode>6011</GrowerCode>
+      <GrowerName>जगदाळे ज्ञानेश्वर मुरलीधर</GrowerName>
+      <GrowerCode>958</GrowerCode>
+      <GrowerName>जगदाळे दत्तु ज्ञानेश्वर</GrowerName>
+      <GrowerCode>991</GrowerCode>
+      <GrowerName>जगदाळे पोपटराव रामचंद्र</GrowerName>
+      <GrowerCode>1120</GrowerCode>
+      <GrowerName>जगदाळे भगवान दगडु</GrowerName>
+      <GrowerCode>22656</GrowerCode>
+      <GrowerName>जगदाळे भिमराव बाबा</GrowerName>
+      <GrowerCode>1118</GrowerCode>
+      <GrowerName>जगदाळे महादेव दगडु</GrowerName>
+      <GrowerCode>32816</GrowerCode>
+      <GrowerName>जगदाळे योगेश दत्तात्रय</GrowerName>
+      <GrowerCode>1134</GrowerCode>
+      <GrowerName>जगदाळे रणजित नारायण </GrowerName>
+      <GrowerCode>1013</GrowerCode>
+      <GrowerName>जगदाळे राजेंद्र गोरख</GrowerName>
+      <GrowerCode>1125</GrowerCode>
+      <GrowerName>जगदाळे रामचंद्र महादेव</GrowerName>
+      <GrowerCode>1168</GrowerCode>
+      <GrowerName>जगदाळे रामदास सदाशिव</GrowerName>
+      <GrowerCode>972</GrowerCode>
+      <GrowerName>जगदाळे विकास प्रभाकर</GrowerName>
+      <GrowerCode>1018</GrowerCode>
+      <GrowerName>जगदाळे संगिता दशरथ</GrowerName>
+      <GrowerCode>996</GrowerCode>
+      <GrowerName>जगदाळे संजय रामचंद्र</GrowerName>
+      <GrowerCode>1148</GrowerCode>
+      <GrowerName>जगदाळे सरस्वती बाबा</GrowerName>
+      <GrowerCode>22542</GrowerCode>
+      <GrowerName>जगदाळे सुजित रामचंद्र</GrowerName>
+      <GrowerCode>6329</GrowerCode>
+      <GrowerName>जगदाळे सुनिता काशीनाथ</GrowerName>
+      <GrowerCode>20124</GrowerCode>
+      <GrowerName>जगदाळे सुनिल जालिंदर</GrowerName>
+      <GrowerCode>963</GrowerCode>
+      <GrowerName>जगदाळे सुमन जगन्नाथ</GrowerName>
+      <GrowerCode>1063</GrowerCode>
+      <GrowerName>जठार बापुराव बारकु</GrowerName>
+      <GrowerCode>39098</GrowerCode>
+      <GrowerName>जठार मधुकर मोहन</GrowerName>
+      <GrowerCode>1066</GrowerCode>
+      <GrowerName>जठार विठ्ठल बारकु</GrowerName>
+      <GrowerCode>20216</GrowerCode>
+      <GrowerName>जठार संजय मोहन</GrowerName>
+      <GrowerCode>1064</GrowerCode>
+      <GrowerName>जठार सुभाष पांडुरंग</GrowerName>
+      <GrowerCode>1056</GrowerCode>
+      <GrowerName>जाधव उषादेवी तानाजी</GrowerName>
+      <GrowerCode>1055</GrowerCode>
+      <GrowerName>जाधव तानाजी शंकरराव</GrowerName>
+      <GrowerCode>2016</GrowerCode>
+      <GrowerName>जाधव नारायण प्रल्हाद</GrowerName>
+      <GrowerCode>22580</GrowerCode>
+      <GrowerName>जाधव बाबा गोपाळा</GrowerName>
+      <GrowerCode>664</GrowerCode>
+      <GrowerName>जाधव योगिराज प्रल्हाद</GrowerName>
+      <GrowerCode>1185</GrowerCode>
+      <GrowerName>ठाकुर अजितसिंह उदयसिंह</GrowerName>
+      <GrowerCode>1123</GrowerCode>
+      <GrowerName>ठाकुर उदयसिंह बानसिंह</GrowerName>
+      <GrowerCode>1184</GrowerCode>
+      <GrowerName>ठाकुर जितेद्रसिंह उदयसिंह</GrowerName>
+      <GrowerCode>1186</GrowerCode>
+      <GrowerName>ठाकुर महेंद्रसिंह उदयसिंह</GrowerName>
+      <GrowerCode>1154</GrowerCode>
+      <GrowerName>डोईजड कुशाबा शिवाप्पा</GrowerName>
+      <GrowerCode>1169</GrowerCode>
+      <GrowerName>ताकवणे पार्वती शंकर</GrowerName>
+      <GrowerCode>1180</GrowerCode>
+      <GrowerName>थोरात विजय बन्सीलाल</GrowerName>
+      <GrowerCode>1135</GrowerCode>
+      <GrowerName>दरेकर अविनाश दिगंबर</GrowerName>
+      <GrowerCode>1069</GrowerCode>
+      <GrowerName>दिवेकर धोडिंबा सोपान</GrowerName>
+      <GrowerCode>1068</GrowerCode>
+      <GrowerName>दिवेकर मंगल धोडिंबा</GrowerName>
+      <GrowerCode>1038</GrowerCode>
+      <GrowerName>नाळे अनिल तुकाराम</GrowerName>
+      <GrowerCode>1136</GrowerCode>
+      <GrowerName>निंबाळकर पंढरीनाथ भिवबा</GrowerName>
+      <GrowerCode>11347</GrowerCode>
+      <GrowerName>पवार संभाजी राघु</GrowerName>
+      <GrowerCode>22579</GrowerCode>
+      <GrowerName>पवार सुमन संभाजी</GrowerName>
+      <GrowerCode>980</GrowerCode>
+      <GrowerName>पाटील अलका माणिकराव</GrowerName>
+      <GrowerCode>1196</GrowerCode>
+      <GrowerName>पासलकर काशीनाथ नारायण </GrowerName>
+      <GrowerCode>1024</GrowerCode>
+      <GrowerName>पासलकर महादू श्रीपती</GrowerName>
+      <GrowerCode>22980</GrowerCode>
+      <GrowerName>बारवकर गंगुबाई मारुती</GrowerName>
+      <GrowerCode>975</GrowerCode>
+      <GrowerName>बारवकर छाया ज्ञानदेव</GrowerName>
+      <GrowerCode>22979</GrowerCode>
+      <GrowerName>बारवकर पार्वतीबाई महादेव</GrowerName>
+      <GrowerCode>1117</GrowerCode>
+      <GrowerName>बारवकर मनिषा गणेश</GrowerName>
+      <GrowerCode>1057</GrowerCode>
+      <GrowerName>बारवकर राहुल भगवाण</GrowerName>
+      <GrowerCode>1232</GrowerCode>
+      <GrowerName>भागवत निवृत्ती धोंडिबा</GrowerName>
+      <GrowerCode>22558</GrowerCode>
+      <GrowerName>भोसले कुंडलिक ज्ञानोबा</GrowerName>
+      <GrowerCode>7630</GrowerCode>
+      <GrowerName>भोसले तानाजी भिकोबा</GrowerName>
+      <GrowerCode>1167</GrowerCode>
+      <GrowerName>भोसले दत्तात्रय ज्ञानोबा</GrowerName>
+      <GrowerCode>20188</GrowerCode>
+      <GrowerName>भोसले हरिचंद्र दुधाशा</GrowerName>
+      <GrowerCode>22541</GrowerCode>
+      <GrowerName>माने सुनिल बाबुराव</GrowerName>
+      <GrowerCode>6876</GrowerCode>
+      <GrowerName>मेरगळ काशिनाथ मारुती</GrowerName>
+      <GrowerCode>1164</GrowerCode>
+      <GrowerName>मेरगळ तात्याबा यादवराव</GrowerName>
+      <GrowerCode>1172</GrowerCode>
+      <GrowerName>मेरगळ नवनाथ मारुती</GrowerName>
+      <GrowerCode>1155</GrowerCode>
+      <GrowerName>मेरगळ नारायण बारीकराव</GrowerName>
+      <GrowerCode>1153</GrowerCode>
+      <GrowerName>मेरगळ भगवान बारीकराव</GrowerName>
+      <GrowerCode>953</GrowerCode>
+      <GrowerName>मेरगळ भाऊसाहेब सखाराम</GrowerName>
+      <GrowerCode>1008</GrowerCode>
+      <GrowerName>मेरगळ मोहन यादवराव</GrowerName>
+      <GrowerCode>993</GrowerCode>
+      <GrowerName>मेरगळ राजु हरिभाऊ</GrowerName>
+      <GrowerCode>6624</GrowerCode>
+      <GrowerName>मेरगळ सदाशिव दिगांबर</GrowerName>
+      <GrowerCode>1007</GrowerCode>
+      <GrowerName>मेरगळ सुखदेव यादवराव</GrowerName>
+      <GrowerCode>951</GrowerCode>
+      <GrowerName>मेरगळ सुलाबाई भास्कर</GrowerName>
+      <GrowerCode>988</GrowerCode>
+      <GrowerName>मेरगळे बापू हरिभाऊ</GrowerName>
+      <GrowerCode>1138</GrowerCode>
+      <GrowerName>येडे अनंता कोंडिबा</GrowerName>
+      <GrowerCode>1058</GrowerCode>
+      <GrowerName>येडे अनुसया बाबा</GrowerName>
+      <GrowerCode>6493</GrowerCode>
+      <GrowerName>येडे आप्पा शंकर</GrowerName>
+      <GrowerCode>1054</GrowerCode>
+      <GrowerName>येडे आबा गिरीजाप्पा</GrowerName>
+      <GrowerCode>1145</GrowerCode>
+      <GrowerName>येडे आबा दगडु</GrowerName>
+      <GrowerCode>1141</GrowerCode>
+      <GrowerName>येडे काशीनाथ लक्ष्मण</GrowerName>
+      <GrowerCode>969</GrowerCode>
+      <GrowerName>येडे किसन गोपाळ</GrowerName>
+      <GrowerCode>1178</GrowerCode>
+      <GrowerName>येडे गंगाराम दगडु</GrowerName>
+      <GrowerCode>1151</GrowerCode>
+      <GrowerName>येडे गंगाराम राघु</GrowerName>
+      <GrowerCode>1061</GrowerCode>
+      <GrowerName>येडे गंगाराम विठ्ठल</GrowerName>
+      <GrowerCode>943</GrowerCode>
+      <GrowerName>येडे गणा राघू</GrowerName>
+      <GrowerCode>11447</GrowerCode>
+      <GrowerName>येडे गणेश बापु</GrowerName>
+      <GrowerCode>1046</GrowerCode>
+      <GrowerName>येडे चंद्रकांत पंढरीनाथ</GrowerName>
+      <GrowerCode>1142</GrowerCode>
+      <GrowerName>येडे छबुबाई कोडिंबा</GrowerName>
+      <GrowerCode>22472</GrowerCode>
+      <GrowerName>येडे ठकूबाई सयाजी</GrowerName>
+      <GrowerCode>6352</GrowerCode>
+      <GrowerName>येडे तात्याबा यशवंत</GrowerName>
+      <GrowerCode>1067</GrowerCode>
+      <GrowerName>येडे थाराजी महादु</GrowerName>
+      <GrowerCode>1129</GrowerCode>
+      <GrowerName>येडे दत्तु आप्पा</GrowerName>
+      <GrowerCode>15750</GrowerCode>
+      <GrowerName>येडे दत्तु पांडुरंग</GrowerName>
+      <GrowerCode>1116</GrowerCode>
+      <GrowerName>येडे दिनकर गणपत</GrowerName>
+      <GrowerCode>1150</GrowerCode>
+      <GrowerName>येडे दिलीप नाना</GrowerName>
+      <GrowerCode>937</GrowerCode>
+      <GrowerName>येडे नंदा दत्तू</GrowerName>
+      <GrowerCode>22543</GrowerCode>
+      <GrowerName>येडे नवनाथ भगवान</GrowerName>
+      <GrowerCode>1021</GrowerCode>
+      <GrowerName>येडे पद्मीनी दत्तु</GrowerName>
+      <GrowerCode>19989</GrowerCode>
+      <GrowerName>येडे पांडुरंग दत्तु</GrowerName>
+      <GrowerCode>948</GrowerCode>
+      <GrowerName>येडे पांडूरंग गणपत</GrowerName>
+      <GrowerCode>1032</GrowerCode>
+      <GrowerName>येडे पांडूरंग धोंडीबा</GrowerName>
+      <GrowerCode>1162</GrowerCode>
+      <GrowerName>येडे पोपट तुकाराम</GrowerName>
+      <GrowerCode>1023</GrowerCode>
+      <GrowerName>येडे बजरंग बाबु</GrowerName>
+      <GrowerCode>1121</GrowerCode>
+      <GrowerName>येडे बबन दगडु</GrowerName>
+      <GrowerCode>1171</GrowerCode>
+      <GrowerName>येडे बयाजी बापु </GrowerName>
+      <GrowerCode>1179</GrowerCode>
+      <GrowerName>येडे बापु बाबु</GrowerName>
+      <GrowerCode>1059</GrowerCode>
+      <GrowerName>येडे बाबा भाऊ</GrowerName>
+      <GrowerCode>1010</GrowerCode>
+      <GrowerName>येडे बाबुराव कामाजी</GrowerName>
+      <GrowerCode>1027</GrowerCode>
+      <GrowerName>येडे बाळू कोंडीबा</GrowerName>
+      <GrowerCode>970</GrowerCode>
+      <GrowerName>येडे भगवान महादेव</GrowerName>
+      <GrowerCode>1131</GrowerCode>
+      <GrowerName>येडे भाऊसाहेब बाबुराव</GrowerName>
+      <GrowerCode>1173</GrowerCode>
+      <GrowerName>येडे भाऊसाहेब बाळु</GrowerName>
+      <GrowerCode>1165</GrowerCode>
+      <GrowerName>येडे भागुजी गणपत</GrowerName>
+      <GrowerCode>1124</GrowerCode>
+      <GrowerName>येडे महादु दादा</GrowerName>
+      <GrowerCode>15749</GrowerCode>
+      <GrowerName>येडे महादेव गोपाळा</GrowerName>
+      <GrowerCode>8179</GrowerCode>
+      <GrowerName>येडे माहादेव दादा</GrowerName>
+      <GrowerCode>940</GrowerCode>
+      <GrowerName>येडे मुरलीधर धोंडीबा</GrowerName>
+      <GrowerCode>39559</GrowerCode>
+      <GrowerName>येडे राजु किसन</GrowerName>
+      <GrowerCode>1002</GrowerCode>
+      <GrowerName>येडे राजेंद्र हरिभाऊ</GrowerName>
+      <GrowerCode>1170</GrowerCode>
+      <GrowerName>येडे रामदास शंकर</GrowerName>
+      <GrowerCode>1137</GrowerCode>
+      <GrowerName>येडे रामा राजाराम</GrowerName>
+      <GrowerCode>1157</GrowerCode>
+      <GrowerName>येडे रामाजी बाबा</GrowerName>
+      <GrowerCode>935</GrowerCode>
+      <GrowerName>येडे शिवाजी सोपाना</GrowerName>
+      <GrowerCode>1143</GrowerCode>
+      <GrowerName>येडे श्रीपती सोपान</GrowerName>
+      <GrowerCode>1037</GrowerCode>
+      <GrowerName>येडे सखाराम दादा</GrowerName>
+      <GrowerCode>1019</GrowerCode>
+      <GrowerName>येडे सर्जेराव बाबु</GrowerName>
+      <GrowerCode>1156</GrowerCode>
+      <GrowerName>येडे सर्जेराव बारीकराव</GrowerName>
+      <GrowerCode>22469</GrowerCode>
+      <GrowerName>येडे सुनिता गंगाराम</GrowerName>
+      <GrowerCode>1149</GrowerCode>
+      <GrowerName>येडे सुरखाबाई बाबुराव</GrowerName>
+      <GrowerCode>1133</GrowerCode>
+      <GrowerName>येडे सुरेश भगवान</GrowerName>
+      <GrowerCode>929</GrowerCode>
+      <GrowerName>येडे सोपाना श्रीपती</GrowerName>
+      <GrowerCode>1004</GrowerCode>
+      <GrowerName>येडे सोमनाथ श्रीपती</GrowerName>
+      <GrowerCode>1159</GrowerCode>
+      <GrowerName>येडे हौसा बापुतात्या</GrowerName>
+      <GrowerCode>955</GrowerCode>
+      <GrowerName>लोणकर दत्तु कोंडीबा</GrowerName>
+      <GrowerCode>22477</GrowerCode>
+      <GrowerName>लोणकर धोंडिबा मारुती</GrowerName>
+      <GrowerCode>8265</GrowerCode>
+      <GrowerName>लोणकर महादेव मारुती</GrowerName>
+      <GrowerCode>1140</GrowerCode>
+      <GrowerName>लोणकर मारुती कोडिंबा</GrowerName>
+      <GrowerCode>33580</GrowerCode>
+      <GrowerName>लोणकर रतन दत्तात्रय</GrowerName>
+      <GrowerCode>6275</GrowerCode>
+      <GrowerName>वत्रे छगन रावसाहेब</GrowerName>
+      <GrowerCode>1139</GrowerCode>
+      <GrowerName>वत्रे सोपान दिनकर</GrowerName>
+      <GrowerCode>32812</GrowerCode>
+      <GrowerName>वाणी अंबरनाथ महादाप्पा</GrowerName>
+      <GrowerCode>13656</GrowerCode>
+      <GrowerName>वाणी काशिनाथ अंबरनाथ</GrowerName>
+      <GrowerCode>32806</GrowerCode>
+      <GrowerName>वाणी जया धनशेठ</GrowerName>
+      <GrowerCode>11358</GrowerCode>
+      <GrowerName>वाणी धनशेठ अंबरनाथ</GrowerName>
+      <GrowerCode>1158</GrowerCode>
+      <GrowerName>वाणी राजेंद्र अंबरनाथ</GrowerName>
+      <GrowerCode>1122</GrowerCode>
+      <GrowerName>वानी अंबरनाथ महादाप्पा</GrowerName>
+      <GrowerCode>1119</GrowerCode>
+      <GrowerName>वानी काशीनाथ अंबरनाथ</GrowerName>
+      <GrowerCode>1160</GrowerCode>
+      <GrowerName>वाबळे प्रशांत सुभाष</GrowerName>
+      <GrowerCode>977</GrowerCode>
+      <GrowerName>वाबळे राहूल लालासो</GrowerName>
+      <GrowerCode>973</GrowerCode>
+      <GrowerName>वाबळे लालासो बबन</GrowerName>
+      <GrowerCode>982</GrowerCode>
+      <GrowerName>वाबळे सुभाष बबन</GrowerName>
+      <GrowerCode>1174</GrowerCode>
+      <GrowerName>विघने प्रल्हाद बापुराव</GrowerName>
+      <GrowerCode>949</GrowerCode>
+      <GrowerName>विघ्ने आबा विश्वनाथ</GrowerName>
+      <GrowerCode>1130</GrowerCode>
+      <GrowerName>शहा प्रकाश नेमचंद</GrowerName>
+      <GrowerCode>39413</GrowerCode>
+      <GrowerName>शहा सुभाष मोतीलाल</GrowerName>
+      <GrowerCode>1144</GrowerCode>
+      <GrowerName>शिंदे रामदास बापु</GrowerName>
+      <GrowerCode>1175</GrowerCode>
+      <GrowerName>शिंदे हरिभाऊ मल्हारी</GrowerName>
+      <GrowerCode>15754</GrowerCode>
+      <GrowerName>सांगळे दादाराम संभाजी</GrowerName>
+      <GrowerCode>19941</GrowerCode>
+      <GrowerName>सांगळे नवनाथ पांडुरंग</GrowerName>
+      <GrowerCode>39417</GrowerCode>
+      <GrowerName>सांगळे बाळासाहेब पांडुरंग</GrowerName>
+      <GrowerCode>39367</GrowerCode>
+      <GrowerName>सांगळे मनिषा राजेंद्र</GrowerName>
+      <GrowerCode>1163</GrowerCode>
+      <GrowerName>सांगळे राहुल विश्वनाथ</GrowerName>
+      <GrowerCode>22548</GrowerCode>
+      <GrowerName>सांगळे रोहिदास मारुती</GrowerName>
+      <GrowerCode>921</GrowerCode>
+      <GrowerName>सांगळे विश्वनाथ ज्ञानदेव</GrowerName>
+      <GrowerCode>39366</GrowerCode>
+      <GrowerName>सांगळे संगिता सुनिल</GrowerName>
+      <GrowerCode>15745</GrowerCode>
+      <GrowerName>सांगळे सिमा दत्तात्रय</GrowerName>
+      <GrowerCode>19983</GrowerCode>
+      <GrowerName>साळवे अनिता भानुदास</GrowerName>
+      <GrowerCode>15915</GrowerCode>
+      <GrowerName>सोनवणे अनिल विश्वनाथ</GrowerName>
+      <GrowerCode>22539</GrowerCode>
+      <GrowerName>हगारे सचिन कोंडिबा </GrowerName>
+      <GrowerCode>6010</GrowerCode>
+      <GrowerName>हारिभगत भिमराव दिनकर</GrowerName>
+      <GrowerCode>932</GrowerCode>
+      <GrowerName>हिरणावळे बाबुलाल रोमाजी</GrowerName>
+      <GrowerCode>13890</GrowerCode>
+      <GrowerName>हिरभगत भिमराव दिनकर</GrowerName>
+    </VillageCode>
+  </GatCode>
+</FarmerList>
