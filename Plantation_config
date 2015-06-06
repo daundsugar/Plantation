@@ -3,7 +3,7 @@
     <UserCode Code="356044061108633">
         <UserName>Manoj</UserName>
         <Range>0</Range>
-        <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_F.xml</FarmerList>
+        <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/FarmerList.xml</FarmerList>
         <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_G.xml</GatList>
         <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_V.xml</VillageList>
         <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
