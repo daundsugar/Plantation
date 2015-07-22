@@ -2,7 +2,7 @@
 <VerificationData>
 	    <PlotNo No="1">
 		    <RegFormNo>1</RegFormNo>
-		    <GatCode>1</GatCode>
+		    <GatCode>10</GatCode>
 		    <GatName>ओझर</GatName>
 		   <VillageCode>1</VillageCode>
 		   <VillageName>अपटाळे</VillageName>
@@ -25,7 +25,7 @@
 	    </PlotNo>
 	    <PlotNo No="2">
 		    <RegFormNo>2</RegFormNo>
-		    <GatCode>1</GatCode>
+		    <GatCode>10</GatCode>
 		    <GatName>ओझर</GatName>
 		   <VillageCode>1</VillageCode>
 		   <VillageName>अपटाळे</VillageName>
