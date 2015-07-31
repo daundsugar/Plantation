@@ -4,8 +4,8 @@
         <UserName>Manoj</UserName>
         <Range>0</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/FarmerList.xml</FarmerList>
-        <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_G.xml</GatList>
-        <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_V.xml</VillageList>
+        <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/GatList.xml</GatList>
+        <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/VillageList.xml</VillageList>
         <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
         <UCode>1</UCode>
   </UserCode>
