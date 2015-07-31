@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CaneType>
     <CaneCode Code="1">
       <TypeName>आडसाली</TypeName>
@@ -6,7 +6,7 @@
      <CaneCode Code="2">
       <TypeName>सुरु</TypeName>
     </CaneCode>
- <CaneCode Code="3">
+ <CaneCode Code="4">
       <TypeName>खोडवा </TypeName>
     </CaneCode>
 </CaneType>
