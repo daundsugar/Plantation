@@ -22,9 +22,9 @@
         <UserName>Ravindra</UserName>
           <Range>2000</Range>
         <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/FarmerList.xml</FarmerList>
-        <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_G.xml</GatList>
-        <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_V.xml</VillageList>
-        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061108633_VD.xml</VerificationData>
+        <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/GatList.xml</GatList>
+        <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/VillageList.xml</VillageList>
+        <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/911306904040341_VD.xml</VerificationData>
          <UCode>3</UCode>
    </UserCode>
 <UserCode Code="356044060310537">
