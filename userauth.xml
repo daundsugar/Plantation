@@ -7,7 +7,12 @@
   </loginid>
   <loginid id="12">
     <username>-</username>
-    <password>12</password>
+    <password>123456</password>
+    <level>3</level>
+  </loginid>
+  <loginid id="46">
+    <username>-</username>
+    <password>123456</password>
     <level>2</level>
   </loginid>
 </users>
