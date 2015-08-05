@@ -5,7 +5,7 @@
     <password>1</password>
     <level>3</level>
   </loginid>
-  <loginid id="12">
+  <loginid id="10">
     <username>-</username>
     <password>12345</password>
     <level>3</level>
@@ -14,5 +14,10 @@
     <username>-</username>
     <password>123456</password>
     <level>2</level>
+  </loginid>
+  <loginid id="48">
+    <username>-</username>
+    <password>1234</password>
+    <level>3</level>
   </loginid>
 </users>
