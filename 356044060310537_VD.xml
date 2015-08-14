@@ -120,6 +120,366 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9422007005</MobileNo>
   </PlotNo>
+  <PlotNo No="10959">
+    <RegFormNo>34795</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>19696</CaneGrowerCode>
+    <CaneGrowerName>जगताप सविता शिवाजी</CaneGrowerName>
+    <ServeyNo>24/4</ServeyNo>
+    <PlantationDate>22/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8087762486</MobileNo>
+  </PlotNo>
+  <PlotNo No="10957">
+    <RegFormNo>34778</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1959</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे हरिदास तुकाराम</CaneGrowerName>
+    <ServeyNo>24/6/²Ö</ServeyNo>
+    <PlantationDate>19/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.25</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922720014</MobileNo>
+  </PlotNo>
+  <PlotNo No="10956">
+    <RegFormNo>34776</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1922</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे सुरेश बाबुराव</CaneGrowerName>
+    <ServeyNo>60</ServeyNo>
+    <PlantationDate>19/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8623083695</MobileNo>
+  </PlotNo>
+  <PlotNo No="10953">
+    <RegFormNo>34763</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>29944</CaneGrowerCode>
+    <CaneGrowerName>जाधव रेखा धनंजय</CaneGrowerName>
+    <ServeyNo>28/ú</ServeyNo>
+    <PlantationDate>17/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9764157115</MobileNo>
+  </PlotNo>
+  <PlotNo No="10951">
+    <RegFormNo>34753</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>22542</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे सुजित रामचंद्र</CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>16/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9226927539</MobileNo>
+  </PlotNo>
+  <PlotNo No="10950">
+    <RegFormNo>34754</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1125</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे रामचंद्र महादेव</CaneGrowerName>
+    <ServeyNo>16/1/ú</ServeyNo>
+    <PlantationDate>16/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.45</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9226927539</MobileNo>
+  </PlotNo>
+  <PlotNo No="10949">
+    <RegFormNo>34750</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46396</CaneGrowerCode>
+    <CaneGrowerName>पवार नंदकुमार शंकर</CaneGrowerName>
+    <ServeyNo>65/3</ServeyNo>
+    <PlantationDate>15/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10947">
+    <RegFormNo>34741</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1998</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे मधुकर रघुनाथ</CaneGrowerName>
+    <ServeyNo>30</ServeyNo>
+    <PlantationDate>14/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9226223004</MobileNo>
+  </PlotNo>
+  <PlotNo No="10946">
+    <RegFormNo>34739</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1922</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे सुरेश बाबुराव</CaneGrowerName>
+    <ServeyNo>23/5</ServeyNo>
+    <PlantationDate>14/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8623083695</MobileNo>
+  </PlotNo>
+  <PlotNo No="10943">
+    <RegFormNo>34731</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>2005</CaneGrowerCode>
+    <CaneGrowerName>काटे सुभाष नारायण</CaneGrowerName>
+    <ServeyNo>31/2</ServeyNo>
+    <PlantationDate>12/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9764157115</MobileNo>
+  </PlotNo>
+  <PlotNo No="10942">
+    <RegFormNo>34727</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>19697</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे परिघाबाई मल्हारी</CaneGrowerName>
+    <ServeyNo>10/2/²Ö</ServeyNo>
+    <PlantationDate>12/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9271538003</MobileNo>
+  </PlotNo>
+  <PlotNo No="10937">
+    <RegFormNo>34722</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1866</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे प्रभाकर महादेव</CaneGrowerName>
+    <ServeyNo>34722</ServeyNo>
+    <PlantationDate>10/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922659777</MobileNo>
+  </PlotNo>
+  <PlotNo No="10934">
+    <RegFormNo>34712</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1980</CaneGrowerCode>
+    <CaneGrowerName>जगताप देविदास शंकर</CaneGrowerName>
+    <ServeyNo>24/1.</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10933">
+    <RegFormNo>34713</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1952</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे विठ्ठल निवृत्ती</CaneGrowerName>
+    <ServeyNo>30</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.50</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9422007005</MobileNo>
+  </PlotNo>
+  <PlotNo No="10932">
+    <RegFormNo>34714</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1203</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे चंद्रसेन निवृत्ती</CaneGrowerName>
+    <ServeyNo>30</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.50</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9923626809</MobileNo>
+  </PlotNo>
   <PlotNo No="8701">
     <RegFormNo>36778</RegFormNo>
     <GatCode>2</GatCode>
@@ -143,6 +503,606 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11036">
+    <RegFormNo>34752</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>6876</CaneGrowerCode>
+    <CaneGrowerName>मेरगळ काशिनाथ मारुती</CaneGrowerName>
+    <ServeyNo>3/4</ServeyNo>
+    <PlantationDate>16/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9975837256</MobileNo>
+  </PlotNo>
+  <PlotNo No="11035">
+    <RegFormNo>34744</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20077</CaneGrowerCode>
+    <CaneGrowerName>मेरगळ विठ्ठल हरिभाऊ</CaneGrowerName>
+    <ServeyNo>3</ServeyNo>
+    <PlantationDate>15/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9730180924</MobileNo>
+  </PlotNo>
+  <PlotNo No="11030">
+    <RegFormNo>34719</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1134</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे रणजित नारायण </CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>10/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11029">
+    <RegFormNo>34711</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>13656</CaneGrowerCode>
+    <CaneGrowerName>वाणी काशिनाथ अंबरनाथ</CaneGrowerName>
+    <ServeyNo>46</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9545049272</MobileNo>
+  </PlotNo>
+  <PlotNo No="11028">
+    <RegFormNo>34710</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>11522</CaneGrowerCode>
+    <CaneGrowerName>मोमिन रिझवान आयुब</CaneGrowerName>
+    <ServeyNo>7/1</ServeyNo>
+    <PlantationDate>06/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.70</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11050">
+    <RegFormNo>36719</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1142</CaneGrowerCode>
+    <CaneGrowerName>येडे छबुबाई कोंडिबा</CaneGrowerName>
+    <ServeyNo>6/5</ServeyNo>
+    <PlantationDate>27/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9827403222</MobileNo>
+  </PlotNo>
+  <PlotNo No="11048">
+    <RegFormNo>34794</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1180</CaneGrowerCode>
+    <CaneGrowerName>थोरात विजय बन्सीलाल</CaneGrowerName>
+    <ServeyNo>53/1/2</ServeyNo>
+    <PlantationDate>22/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9637711221</MobileNo>
+  </PlotNo>
+  <PlotNo No="11046">
+    <RegFormNo>34790</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>11366</CaneGrowerCode>
+    <CaneGrowerName>सांगळे किसन सोपान</CaneGrowerName>
+    <ServeyNo>21/2/²Ö</ServeyNo>
+    <PlantationDate>21/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11045">
+    <RegFormNo>34789</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1054</CaneGrowerCode>
+    <CaneGrowerName>येडे आबा गिरीजाप्पा</CaneGrowerName>
+    <ServeyNo>19</ServeyNo>
+    <PlantationDate>21/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096457374</MobileNo>
+  </PlotNo>
+  <PlotNo No="11041">
+    <RegFormNo>34781</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1136</CaneGrowerCode>
+    <CaneGrowerName>निंबाळकर पंढरीनाथ भिवबा</CaneGrowerName>
+    <ServeyNo>58/3</ServeyNo>
+    <PlantationDate>20/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9637536002</MobileNo>
+  </PlotNo>
+  <PlotNo No="10979">
+    <RegFormNo>34724</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50282</CaneGrowerCode>
+    <CaneGrowerName>सोनवणे मंदा शरद</CaneGrowerName>
+    <ServeyNo>27</ServeyNo>
+    <PlantationDate>10/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8888242212</MobileNo>
+  </PlotNo>
+  <PlotNo No="10978">
+    <RegFormNo>34715</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>9049</CaneGrowerCode>
+    <CaneGrowerName>घुले भोजु बाबु </CaneGrowerName>
+    <ServeyNo>159</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922094844</MobileNo>
+  </PlotNo>
+  <PlotNo No="10977">
+    <RegFormNo>34715</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>9049</CaneGrowerCode>
+    <CaneGrowerName>घुले भोजु बाबु </CaneGrowerName>
+    <ServeyNo>394</ServeyNo>
+    <PlantationDate>07/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922094844</MobileNo>
+  </PlotNo>
+  <PlotNo No="10974">
+    <RegFormNo>34703</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>39600</CaneGrowerCode>
+    <CaneGrowerName>कदम संभाजी शिवाजी</CaneGrowerName>
+    <ServeyNo>82</ServeyNo>
+    <PlantationDate>03/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10973">
+    <RegFormNo>34596</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50281</CaneGrowerCode>
+    <CaneGrowerName>दगडे शिवा मलु</CaneGrowerName>
+    <ServeyNo>149</ServeyNo>
+    <PlantationDate>02/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9623584573</MobileNo>
+  </PlotNo>
+  <PlotNo No="10972">
+    <RegFormNo>34594</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50280</CaneGrowerCode>
+    <CaneGrowerName>जगताप जया रविंद्र</CaneGrowerName>
+    <ServeyNo>74</ServeyNo>
+    <PlantationDate>02/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9405880038</MobileNo>
+  </PlotNo>
+  <PlotNo No="11021">
+    <RegFormNo>36721</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20096</CaneGrowerCode>
+    <CaneGrowerName>आवदे रामदास कोंडिबा</CaneGrowerName>
+    <ServeyNo>195</ServeyNo>
+    <PlantationDate>27/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>1.00</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11019">
+    <RegFormNo>36718</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50285</CaneGrowerCode>
+    <CaneGrowerName>चव्हाण अलकाबाई रामभाऊ</CaneGrowerName>
+    <ServeyNo>6</ServeyNo>
+    <PlantationDate>27/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>1.00</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9673080475</MobileNo>
+  </PlotNo>
+  <PlotNo No="11011">
+    <RegFormNo>36710</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20369</CaneGrowerCode>
+    <CaneGrowerName>चव्हाण पोपट किसन</CaneGrowerName>
+    <ServeyNo>6</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8975651639</MobileNo>
+  </PlotNo>
+  <PlotNo No="11010">
+    <RegFormNo>36709</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46295</CaneGrowerCode>
+    <CaneGrowerName>कडु गुलाब दौलती</CaneGrowerName>
+    <ServeyNo>78/8</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423426834</MobileNo>
+  </PlotNo>
+  <PlotNo No="11000">
+    <RegFormNo>34773</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>18101</CaneGrowerCode>
+    <CaneGrowerName>मराडे सुरेश बनाजी</CaneGrowerName>
+    <ServeyNo>178</ServeyNo>
+    <PlantationDate>19/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9860540511</MobileNo>
+  </PlotNo>
+  <PlotNo No="10996">
+    <RegFormNo>34761</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20534</CaneGrowerCode>
+    <CaneGrowerName>येडे भगवान रघुनाथ</CaneGrowerName>
+    <ServeyNo>209</ServeyNo>
+    <PlantationDate>17/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922749516</MobileNo>
+  </PlotNo>
+  <PlotNo No="10991">
+    <RegFormNo>34758</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50283</CaneGrowerCode>
+    <CaneGrowerName>दगडे मल्हारी साळु</CaneGrowerName>
+    <ServeyNo>260</ServeyNo>
+    <PlantationDate>16/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10989">
+    <RegFormNo>34740</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>829</CaneGrowerCode>
+    <CaneGrowerName>दगडे भाऊसो रामा</CaneGrowerName>
+    <ServeyNo>394/3</ServeyNo>
+    <PlantationDate>14/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9766312490</MobileNo>
+  </PlotNo>
+  <PlotNo No="10987">
+    <RegFormNo>34740</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>829</CaneGrowerCode>
+    <CaneGrowerName>दगडे भाऊसो रामा</CaneGrowerName>
+    <ServeyNo>114/2</ServeyNo>
+    <PlantationDate>14/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9766312490</MobileNo>
   </PlotNo>
   <PlotNo No="8700">
     <RegFormNo>36789</RegFormNo>
@@ -191,6 +1151,78 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9960135414</MobileNo>
+  </PlotNo>
+  <PlotNo No="11040">
+    <RegFormNo>34780</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>15754</CaneGrowerCode>
+    <CaneGrowerName>सांगळे दादाराम संभाजी</CaneGrowerName>
+    <ServeyNo>50/1</ServeyNo>
+    <PlantationDate>20/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>2</IrrigationMethodCode>
+    <IrrigationMethod>ठिबक सिंचन</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>7588072180</MobileNo>
+  </PlotNo>
+  <PlotNo No="11039">
+    <RegFormNo>34767</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1163</CaneGrowerCode>
+    <CaneGrowerName>सांगळे राहुल विश्वनाथ</CaneGrowerName>
+    <ServeyNo>50/1</ServeyNo>
+    <PlantationDate>17/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.50</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>2</IrrigationMethodCode>
+    <IrrigationMethod>ठिबक सिंचन</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423100648</MobileNo>
+  </PlotNo>
+  <PlotNo No="10980">
+    <RegFormNo>34723</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>22847</CaneGrowerCode>
+    <CaneGrowerName>सोनवणे शरद शंकर</CaneGrowerName>
+    <ServeyNo>28</ServeyNo>
+    <PlantationDate>10/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>2</IrrigationMethodCode>
+    <IrrigationMethod>ठिबक सिंचन</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423004882</MobileNo>
   </PlotNo>
   <PlotNo No="8863">
     <RegFormNo>26261</RegFormNo>
@@ -5472,6 +6504,30 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9860546509</MobileNo>
   </PlotNo>
+  <PlotNo No="26">
+    <RegFormNo>61</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>738</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे बाबा राघोबा</CaneGrowerName>
+    <ServeyNo>61</ServeyNo>
+    <PlantationDate>01/07/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.10</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9890007616</MobileNo>
+  </PlotNo>
   <PlotNo No="24">
     <RegFormNo>23277</RegFormNo>
     <GatCode>2</GatCode>
@@ -5543,6 +6599,78 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9604885590</MobileNo>
+  </PlotNo>
+  <PlotNo No="10936">
+    <RegFormNo>34721</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1979</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे विकास ज्ञानदेव</CaneGrowerName>
+    <ServeyNo>12/2</ServeyNo>
+    <PlantationDate>10/08/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9960767333</MobileNo>
+  </PlotNo>
+  <PlotNo No="10935">
+    <RegFormNo>34720</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1984</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे सुहास ज्ञानदेव</CaneGrowerName>
+    <ServeyNo>12/3</ServeyNo>
+    <PlantationDate>10/08/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9960767333</MobileNo>
+  </PlotNo>
+  <PlotNo No="10962">
+    <RegFormNo>34733</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1890</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे प्रदिप शिवाजी</CaneGrowerName>
+    <ServeyNo>64/5</ServeyNo>
+    <PlantationDate>25/08/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9822324933</MobileNo>
   </PlotNo>
   <PlotNo No="5435">
     <RegFormNo>16875</RegFormNo>
@@ -7006,7 +8134,7 @@
     <IrrigationMethod>पाटपाणी</IrrigationMethod>
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9423231111</MobileNo>
+    <MobileNo>0</MobileNo>
   </PlotNo>
   <PlotNo No="535">
     <RegFormNo>23827</RegFormNo>
@@ -7704,6 +8832,150 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9960767373</MobileNo>
   </PlotNo>
+  <PlotNo No="10958">
+    <RegFormNo>34797</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>2011</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे अशोक रघुनाथ</CaneGrowerName>
+    <ServeyNo>30</ServeyNo>
+    <PlantationDate>20/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9764558550</MobileNo>
+  </PlotNo>
+  <PlotNo No="10955">
+    <RegFormNo>34775</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50279</CaneGrowerCode>
+    <CaneGrowerName>जगताप सुशीला चंद्रकांत</CaneGrowerName>
+    <ServeyNo>36/1</ServeyNo>
+    <PlantationDate>19/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096457436</MobileNo>
+  </PlotNo>
+  <PlotNo No="10954">
+    <RegFormNo>34774</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>9844</CaneGrowerCode>
+    <CaneGrowerName>काळे कुसुम राजेंद्र</CaneGrowerName>
+    <ServeyNo>65/1/²Ö/1</ServeyNo>
+    <PlantationDate>19/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.70</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10952">
+    <RegFormNo>34755</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>11202</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे हनुमंत जयवंत</CaneGrowerName>
+    <ServeyNo>36</ServeyNo>
+    <PlantationDate>16/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="10948">
+    <RegFormNo>34748</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1935</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे नारायण सोपान</CaneGrowerName>
+    <ServeyNo>61</ServeyNo>
+    <PlantationDate>15/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9881010912</MobileNo>
+  </PlotNo>
+  <PlotNo No="10966">
+    <RegFormNo>36720</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1951</CaneGrowerCode>
+    <CaneGrowerName>काटे ज्ञानदेव तात्याबा</CaneGrowerName>
+    <ServeyNo>29</ServeyNo>
+    <PlantationDate>27/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9158782003</MobileNo>
+  </PlotNo>
   <PlotNo No="8964">
     <RegFormNo>36207</RegFormNo>
     <GatCode>2</GatCode>
@@ -7775,6 +9047,102 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11037">
+    <RegFormNo>34765</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>8900</CaneGrowerCode>
+    <CaneGrowerName>होले भिकु श्रीरंग</CaneGrowerName>
+    <ServeyNo>361/1</ServeyNo>
+    <PlantationDate>17/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11032">
+    <RegFormNo>34728</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>970</CaneGrowerCode>
+    <CaneGrowerName>येडे भगवान महादेव</CaneGrowerName>
+    <ServeyNo>39/1</ServeyNo>
+    <PlantationDate>12/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11049">
+    <RegFormNo>36705</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>6275</CaneGrowerCode>
+    <CaneGrowerName>वत्रे छगन रावसाहेब</CaneGrowerName>
+    <ServeyNo>10/1</ServeyNo>
+    <PlantationDate>24/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9975811707</MobileNo>
+  </PlotNo>
+  <PlotNo No="11047">
+    <RegFormNo>34791</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>8</VillageCode>
+    <VillageName>मसनेरवाडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>33580</CaneGrowerCode>
+    <CaneGrowerName>लोणकर रतन दत्तात्रय</CaneGrowerName>
+    <ServeyNo>7</ServeyNo>
+    <PlantationDate>22/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9730618601</MobileNo>
   </PlotNo>
   <PlotNo No="8959">
     <RegFormNo>36216</RegFormNo>
@@ -7967,6 +9335,222 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9881615609</MobileNo>
+  </PlotNo>
+  <PlotNo No="11020">
+    <RegFormNo>36721</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20096</CaneGrowerCode>
+    <CaneGrowerName>आवदे रामदास कोंडिबा</CaneGrowerName>
+    <ServeyNo>195</ServeyNo>
+    <PlantationDate>27/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11015">
+    <RegFormNo>36712</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>23324</CaneGrowerCode>
+    <CaneGrowerName>दगडे सदु बाबु</CaneGrowerName>
+    <ServeyNo>267/5</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>-</MobileNo>
+  </PlotNo>
+  <PlotNo No="11014">
+    <RegFormNo>36713</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>32819</CaneGrowerCode>
+    <CaneGrowerName>दगडे शिवा सदु</CaneGrowerName>
+    <ServeyNo>260</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9766067482</MobileNo>
+  </PlotNo>
+  <PlotNo No="11013">
+    <RegFormNo>36714</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20395</CaneGrowerCode>
+    <CaneGrowerName>दगडे लिंबाजी महादु</CaneGrowerName>
+    <ServeyNo>240</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>7387419114</MobileNo>
+  </PlotNo>
+  <PlotNo No="11012">
+    <RegFormNo>36714</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20395</CaneGrowerCode>
+    <CaneGrowerName>दगडे लिंबाजी महादु</CaneGrowerName>
+    <ServeyNo>266</ServeyNo>
+    <PlantationDate>26/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>7387419114</MobileNo>
+  </PlotNo>
+  <PlotNo No="11008">
+    <RegFormNo>36704</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50284</CaneGrowerCode>
+    <CaneGrowerName>मेरगळ रामभाऊ नारायण</CaneGrowerName>
+    <ServeyNo>385</ServeyNo>
+    <PlantationDate>24/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9960196398</MobileNo>
+  </PlotNo>
+  <PlotNo No="10995">
+    <RegFormNo>34761</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>20534</CaneGrowerCode>
+    <CaneGrowerName>येडे भगवान रघुनाथ</CaneGrowerName>
+    <ServeyNo>209</ServeyNo>
+    <PlantationDate>17/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9922749516</MobileNo>
+  </PlotNo>
+  <PlotNo No="10988">
+    <RegFormNo>34740</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>829</CaneGrowerCode>
+    <CaneGrowerName>दगडे भाऊसो रामा</CaneGrowerName>
+    <ServeyNo>114/2</ServeyNo>
+    <PlantationDate>14/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9766312490</MobileNo>
+  </PlotNo>
+  <PlotNo No="10981">
+    <RegFormNo>34742</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>9</VillageCode>
+    <VillageName>खोरवडी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>23325</CaneGrowerCode>
+    <CaneGrowerName>सोनवणे निवृत्ती मारुती</CaneGrowerName>
+    <ServeyNo>387/3</ServeyNo>
+    <PlantationDate>15/09/2014</PlantationDate>
+    <CaneTypeCode>2</CaneTypeCode>
+    <CaneType>पुर्व हंगामी</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9970958627</MobileNo>
   </PlotNo>
   <PlotNo No="8949">
     <RegFormNo>36201</RegFormNo>
@@ -11736,6 +13320,30 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>9689265050</MobileNo>
   </PlotNo>
+  <PlotNo No="10961">
+    <RegFormNo>34733</RegFormNo>
+    <GatCode>2</GatCode>
+    <GatName>लिंगाळी</GatName>
+    <VillageCode>7</VillageCode>
+    <VillageName>लिंगाळी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>1890</CaneGrowerCode>
+    <CaneGrowerName>जगदाळे प्रदिप शिवाजी</CaneGrowerName>
+    <ServeyNo>64/5</ServeyNo>
+    <PlantationDate>25/08/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.30</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9822324933</MobileNo>
+  </PlotNo>
   <PlotNo No="4369">
     <RegFormNo>34536</RegFormNo>
     <GatCode>2</GatCode>
@@ -11782,7 +13390,7 @@
     <IrrigationMethod>पाटपाणी</IrrigationMethod>
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9657795252</MobileNo>
+    <MobileNo>-</MobileNo>
   </PlotNo>
   <PlotNo No="4363">
     <RegFormNo>34508</RegFormNo>
@@ -11806,7 +13414,7 @@
     <IrrigationMethod>पाटपाणी</IrrigationMethod>
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9822433084</MobileNo>
+    <MobileNo>0</MobileNo>
   </PlotNo>
   <PlotNo No="4358">
     <RegFormNo>23249</RegFormNo>
@@ -12190,7 +13798,7 @@
     <IrrigationMethod>पाटपाणी</IrrigationMethod>
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9822433084</MobileNo>
+    <MobileNo>0</MobileNo>
   </PlotNo>
   <PlotNo No="5439">
     <RegFormNo>9328</RegFormNo>
