@@ -108,4 +108,13 @@
     <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044061115778_VD.xml</VerificationData>
     <UCode>125</UCode>
   </UserCode>
+  <UserCode Code="356044060311089">
+    <UserName>---</UserName>
+    <Range>60001</Range>
+    <FarmerList>https://raw.githubusercontent.com/daundsugar/Plantation/master/FarmerList.xml</FarmerList>
+    <GatList>https://raw.githubusercontent.com/daundsugar/Plantation/master/GatList.xml</GatList>
+    <VillageList>https://raw.githubusercontent.com/daundsugar/Plantation/master/VillageList.xml</VillageList>
+    <VerificationData>https://raw.githubusercontent.com/daundsugar/Plantation/master/356044060311089_VD.xml</VerificationData>
+    <UCode>23</UCode>
+  </UserCode>
 </User>
