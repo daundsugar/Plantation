@@ -155,4 +155,9 @@
     <password>47</password>
     <level>2</level>
   </loginid>
+  <loginid id="89">
+    <username>-</username>
+    <password>89</password>
+    <level>3</level>
+  </loginid>
 </users>
