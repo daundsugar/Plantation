@@ -175,4 +175,9 @@
     <password>30</password>
     <level>3</level>
   </loginid>
+  <loginid id="11">
+    <username>-</username>
+    <password>11</password>
+    <level>3</level>
+  </loginid>
 </users>
