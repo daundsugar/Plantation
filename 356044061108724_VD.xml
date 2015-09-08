@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VerificationData>
+  <PlotNo No="11650">
+    <RegFormNo>44491</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>787</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>33276</CaneGrowerCode>
+    <CaneGrowerName>थोरात शेवंताबाई किसन</CaneGrowerName>
+    <ServeyNo>262</ServeyNo>
+    <PlantationDate>06/11/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096376100</MobileNo>
+  </PlotNo>
+  <PlotNo No="11651">
+    <RegFormNo>44488</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>787</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>32888</CaneGrowerCode>
+    <CaneGrowerName>थोरात सुनिता संजय</CaneGrowerName>
+    <ServeyNo>242</ServeyNo>
+    <PlantationDate>05/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096376100</MobileNo>
+  </PlotNo>
+  <PlotNo No="11652">
+    <RegFormNo>44489</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>787</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46621</CaneGrowerCode>
+    <CaneGrowerName>जाधव मंदा अनिल</CaneGrowerName>
+    <ServeyNo>287</ServeyNo>
+    <PlantationDate>19/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096376100</MobileNo>
+  </PlotNo>
+  <PlotNo No="11653">
+    <RegFormNo>44489</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>787</VillageCode>
+    <VillageName>वाळकी</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46621</CaneGrowerCode>
+    <CaneGrowerName>जाधव मंदा अनिल</CaneGrowerName>
+    <ServeyNo>287</ServeyNo>
+    <PlantationDate>19/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9096376100</MobileNo>
+  </PlotNo>
+  <PlotNo No="11637">
+    <RegFormNo>20996</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46429</CaneGrowerCode>
+    <CaneGrowerName>खाडे त्रिंबक शंकर</CaneGrowerName>
+    <ServeyNo>191/1</ServeyNo>
+    <PlantationDate>29/10/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9767586330</MobileNo>
+  </PlotNo>
+  <PlotNo No="11639">
+    <RegFormNo>27420</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>24177</CaneGrowerCode>
+    <CaneGrowerName>भोसले बाळकृष्ण बाबुराव</CaneGrowerName>
+    <ServeyNo>578/3</ServeyNo>
+    <PlantationDate>01/11/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>2.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423231351</MobileNo>
+  </PlotNo>
+  <PlotNo No="11640">
+    <RegFormNo>27419</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>30460</CaneGrowerCode>
+    <CaneGrowerName>भोसले शिवाजी बाबुराव</CaneGrowerName>
+    <ServeyNo>578/4</ServeyNo>
+    <PlantationDate>22/11/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423231351</MobileNo>
+  </PlotNo>
+  <PlotNo No="11641">
+    <RegFormNo>27422</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46537</CaneGrowerCode>
+    <CaneGrowerName>ताकवणे सतिश लक्ष्मण</CaneGrowerName>
+    <ServeyNo>511</ServeyNo>
+    <PlantationDate>28/11/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.00</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>8275882723</MobileNo>
+  </PlotNo>
+  <PlotNo No="11642">
+    <RegFormNo>44433</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46599</CaneGrowerCode>
+    <CaneGrowerName>ताकवणे मदन महादेव</CaneGrowerName>
+    <ServeyNo>398</ServeyNo>
+    <PlantationDate>07/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9420730930</MobileNo>
+  </PlotNo>
+  <PlotNo No="11643">
+    <RegFormNo>27424</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>46597</CaneGrowerCode>
+    <CaneGrowerName>साळुंके सुखदेव नाथू</CaneGrowerName>
+    <ServeyNo>1422</ServeyNo>
+    <PlantationDate>07/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423226425</MobileNo>
+  </PlotNo>
+  <PlotNo No="11644">
+    <RegFormNo>27418</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>25082</CaneGrowerCode>
+    <CaneGrowerName>भोसले संभाजी बाबुराव</CaneGrowerName>
+    <ServeyNo>845</ServeyNo>
+    <PlantationDate>15/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>1</CaneVarietyCode>
+    <CaneVariety>Co-86032</CaneVariety>
+    <Area>1.20</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423231351</MobileNo>
+  </PlotNo>
+  <PlotNo No="11645">
+    <RegFormNo>44446</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>33591</CaneGrowerCode>
+    <CaneGrowerName>बोत्रे मल्हारी दगडोबा</CaneGrowerName>
+    <ServeyNo>1341</ServeyNo>
+    <PlantationDate>27/12/2014</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9422011227</MobileNo>
+  </PlotNo>
+  <PlotNo No="11646">
+    <RegFormNo>44434</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>24977</CaneGrowerCode>
+    <CaneGrowerName>शितोळे दत्तात्रय माधवराव</CaneGrowerName>
+    <ServeyNo>314</ServeyNo>
+    <PlantationDate>01/01/2015</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9975372525</MobileNo>
+  </PlotNo>
+  <PlotNo No="11647">
+    <RegFormNo>27416</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>30458</CaneGrowerCode>
+    <CaneGrowerName>भोसले विशाल शिवाजी</CaneGrowerName>
+    <ServeyNo>1369</ServeyNo>
+    <PlantationDate>01/01/2015</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.60</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9766500575</MobileNo>
+  </PlotNo>
+  <PlotNo No="11648">
+    <RegFormNo>37417</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>30456</CaneGrowerCode>
+    <CaneGrowerName>भोसले मंगल बाळकृष्ण</CaneGrowerName>
+    <ServeyNo>845</ServeyNo>
+    <PlantationDate>20/01/2015</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.80</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9423231351</MobileNo>
+  </PlotNo>
+  <PlotNo No="11649">
+    <RegFormNo>44435</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>536</VillageCode>
+    <VillageName>पारगाव सालु मालु</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>24977</CaneGrowerCode>
+    <CaneGrowerName>शितोळे दत्तात्रय माधवराव</CaneGrowerName>
+    <ServeyNo>252</ServeyNo>
+    <PlantationDate>23/01/2015</PlantationDate>
+    <CaneTypeCode>4</CaneTypeCode>
+    <CaneType>खोडवा</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9975372525</MobileNo>
+  </PlotNo>
+  <PlotNo No="9271">
+    <RegFormNo>24812</RegFormNo>
+    <GatCode>8</GatCode>
+    <GatName>उर्वरीत दौंड</GatName>
+    <VillageCode>381</VillageCode>
+    <VillageName>वरवंड</VillageName>
+    <Distance>0.00</Distance>
+    <CaneGrowerCode>50138</CaneGrowerCode>
+    <CaneGrowerName>चौधरी सगाजी सुभाष</CaneGrowerName>
+    <ServeyNo>1091/†</ServeyNo>
+    <PlantationDate>31/08/2014</PlantationDate>
+    <CaneTypeCode>1</CaneTypeCode>
+    <CaneType>आडसाली</CaneType>
+    <CaneVarietyCode>2</CaneVarietyCode>
+    <CaneVariety>CoM-265</CaneVariety>
+    <Area>0.40</Area>
+    <IrrigationTypeCode>1</IrrigationTypeCode>
+    <IrrigationType>विहीर</IrrigationType>
+    <IrrigationMethodCode>1</IrrigationMethodCode>
+    <IrrigationMethod>पाटपाणी</IrrigationMethod>
+    <PlantationTypeCode>1</PlantationTypeCode>
+    <PlantationType>सरी पद्धत</PlantationType>
+    <MobileNo>9049347024</MobileNo>
+  </PlotNo>
+</VerificationData>

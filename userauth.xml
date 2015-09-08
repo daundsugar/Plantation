@@ -180,4 +180,9 @@
     <password>11</password>
     <level>3</level>
   </loginid>
+  <loginid id="93">
+    <username>-</username>
+    <password>93</password>
+    <level>2</level>
+  </loginid>
 </users>
