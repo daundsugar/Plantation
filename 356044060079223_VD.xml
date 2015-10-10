@@ -264,30 +264,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="956">
-    <RegFormNo>12017</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>33435</CaneGrowerCode>
-    <CaneGrowerName>साळुंके रामचंद्र विठ्ठलराव</CaneGrowerName>
-    <ServeyNo>293</ServeyNo>
-    <PlantationDate>14/07/2014</PlantationDate>
-    <CaneTypeCode>5</CaneTypeCode>
-    <CaneType>बेणे खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9423572091</MobileNo>
-  </PlotNo>
   <PlotNo No="3051">
     <RegFormNo>15224</RegFormNo>
     <GatCode>3</GatCode>
@@ -311,30 +287,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="344">
-    <RegFormNo>14051</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>30010</CaneGrowerCode>
-    <CaneGrowerName>भोसले कैलास संतराम</CaneGrowerName>
-    <ServeyNo>115</ServeyNo>
-    <PlantationDate>04/07/2014</PlantationDate>
-    <CaneTypeCode>5</CaneTypeCode>
-    <CaneType>बेणे खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>7588471015</MobileNo>
   </PlotNo>
   <PlotNo No="3033">
     <RegFormNo>15035</RegFormNo>
@@ -1320,30 +1272,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3991">
-    <RegFormNo>16067</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>32435</CaneGrowerCode>
-    <CaneGrowerName>दबडे गिताबाई भिकाजी</CaneGrowerName>
-    <ServeyNo>321</ServeyNo>
-    <PlantationDate>24/09/2014</PlantationDate>
-    <CaneTypeCode>2</CaneTypeCode>
-    <CaneType>पुर्व हंगामी</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9623141571</MobileNo>
-  </PlotNo>
   <PlotNo No="3990">
     <RegFormNo>15344</RegFormNo>
     <GatCode>3</GatCode>
@@ -1871,30 +1799,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="5340">
-    <RegFormNo>44242</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>25242</CaneGrowerCode>
-    <CaneGrowerName>खेडकर बापुराव उत्तमराव</CaneGrowerName>
-    <ServeyNo>30/2</ServeyNo>
-    <PlantationDate>09/03/2015</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9763289441</MobileNo>
   </PlotNo>
   <PlotNo No="6118">
     <RegFormNo>17569</RegFormNo>
@@ -8928,30 +8832,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="5265">
-    <RegFormNo>46798</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>8385</CaneGrowerCode>
-    <CaneGrowerName>बाराते मंदाकिनी आशोक</CaneGrowerName>
-    <ServeyNo>249</ServeyNo>
-    <PlantationDate>28/02/2015</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9623865894</MobileNo>
-  </PlotNo>
   <PlotNo No="5260">
     <RegFormNo>46795</RegFormNo>
     <GatCode>3</GatCode>
@@ -9791,30 +9671,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="6109">
-    <RegFormNo>17508</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>39817</CaneGrowerCode>
-    <CaneGrowerName>नवले भिकु नारायण</CaneGrowerName>
-    <ServeyNo>55</ServeyNo>
-    <PlantationDate>28/11/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9822007348</MobileNo>
   </PlotNo>
   <PlotNo No="6108">
     <RegFormNo>17587</RegFormNo>
@@ -11615,30 +11471,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="6081">
-    <RegFormNo>17749</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5040</CaneGrowerCode>
-    <CaneGrowerName>सातव शोभा चंद्रकांत</CaneGrowerName>
-    <ServeyNo>66/2</ServeyNo>
-    <PlantationDate>14/12/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730491403</MobileNo>
   </PlotNo>
   <PlotNo No="6103">
     <RegFormNo>17547</RegFormNo>
@@ -14256,30 +14088,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="4770">
-    <RegFormNo>46145</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>18894</CaneGrowerCode>
-    <CaneGrowerName>कापसे सुखदेव नारायण</CaneGrowerName>
-    <ServeyNo>311</ServeyNo>
-    <PlantationDate>08/02/2015</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730617943</MobileNo>
-  </PlotNo>
   <PlotNo No="4769">
     <RegFormNo>46158</RegFormNo>
     <GatCode>3</GatCode>
@@ -14351,30 +14159,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="4766">
-    <RegFormNo>46143</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>32435</CaneGrowerCode>
-    <CaneGrowerName>दबडे गिताबाई भिकाजी</CaneGrowerName>
-    <ServeyNo>321/3</ServeyNo>
-    <PlantationDate>08/02/2015</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.50</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9623141571</MobileNo>
   </PlotNo>
   <PlotNo No="4739">
     <RegFormNo>46180</RegFormNo>
@@ -16152,30 +15936,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="5737">
-    <RegFormNo>25683</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>25242</CaneGrowerCode>
-    <CaneGrowerName>खेडकर बापुराव उत्तमराव</CaneGrowerName>
-    <ServeyNo>30</ServeyNo>
-    <PlantationDate>23/12/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.00</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9763289441</MobileNo>
-  </PlotNo>
   <PlotNo No="5735">
     <RegFormNo>25654</RegFormNo>
     <GatCode>3</GatCode>
@@ -17304,30 +17064,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="6093">
-    <RegFormNo>17706</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>50008</CaneGrowerCode>
-    <CaneGrowerName>म्हस्के सोमनाथ बाबासो</CaneGrowerName>
-    <ServeyNo>175</ServeyNo>
-    <PlantationDate>26/11/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.30</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9665277162</MobileNo>
-  </PlotNo>
   <PlotNo No="6080">
     <RegFormNo>17750</RegFormNo>
     <GatCode>3</GatCode>
@@ -17519,30 +17255,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="5011">
-    <RegFormNo>46461</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>7861</CaneGrowerCode>
-    <CaneGrowerName>जगताप संगिता संभाजी</CaneGrowerName>
-    <ServeyNo>128/2</ServeyNo>
-    <PlantationDate>09/01/2015</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9420663000</MobileNo>
   </PlotNo>
   <PlotNo No="5009">
     <RegFormNo>18805</RegFormNo>
@@ -18024,30 +17736,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="5762">
-    <RegFormNo>25684</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5054</CaneGrowerCode>
-    <CaneGrowerName>निंबाळकर विनय रामचंद्र</CaneGrowerName>
-    <ServeyNo>267/2</ServeyNo>
-    <PlantationDate>22/12/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>2.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>2</IrrigationMethodCode>
-    <IrrigationMethod>ठिबक सिंचन</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730200114</MobileNo>
-  </PlotNo>
   <PlotNo No="5897">
     <RegFormNo>34418</RegFormNo>
     <GatCode>3</GatCode>
@@ -18095,30 +17783,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="6032">
-    <RegFormNo>17731</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>50007</CaneGrowerCode>
-    <CaneGrowerName>खोसे प्रकाश निवृत्ती</CaneGrowerName>
-    <ServeyNo>326</ServeyNo>
-    <PlantationDate>03/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9850583399</MobileNo>
   </PlotNo>
   <PlotNo No="5884">
     <RegFormNo>31999</RegFormNo>
@@ -18791,30 +18455,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3237">
-    <RegFormNo>15326</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>7783</CaneGrowerCode>
-    <CaneGrowerName>गिरमकर भगवान विठ्ठल</CaneGrowerName>
-    <ServeyNo>191/1</ServeyNo>
-    <PlantationDate>03/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9860123517</MobileNo>
   </PlotNo>
   <PlotNo No="3228">
     <RegFormNo>15337</RegFormNo>
@@ -19991,30 +19631,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="306">
-    <RegFormNo>13974</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>25241</CaneGrowerCode>
-    <CaneGrowerName>खेडकर आप्पासाहेब उत्तमराव</CaneGrowerName>
-    <ServeyNo>30</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9545001896</MobileNo>
   </PlotNo>
   <PlotNo No="305">
     <RegFormNo>42375</RegFormNo>
@@ -22704,30 +22320,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3538">
-    <RegFormNo>15823</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>17749</CaneGrowerCode>
-    <CaneGrowerName>औताडे भानुदास रामदास</CaneGrowerName>
-    <ServeyNo>74/2</ServeyNo>
-    <PlantationDate>22/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>8600493311</MobileNo>
-  </PlotNo>
   <PlotNo No="3536">
     <RegFormNo>15820</RegFormNo>
     <GatCode>3</GatCode>
@@ -23832,30 +23424,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="164">
-    <RegFormNo>13405</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>30108</CaneGrowerCode>
-    <CaneGrowerName>अवचर जनार्धन नारायण</CaneGrowerName>
-    <ServeyNo>216</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9922139733</MobileNo>
-  </PlotNo>
   <PlotNo No="163">
     <RegFormNo>13404</RegFormNo>
     <GatCode>3</GatCode>
@@ -24455,30 +24023,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="1823">
-    <RegFormNo>14111</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>21121</CaneGrowerCode>
-    <CaneGrowerName>बाराते संपत सोपाना</CaneGrowerName>
-    <ServeyNo>49/1</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>8805713361</MobileNo>
   </PlotNo>
   <PlotNo No="207">
     <RegFormNo>13990</RegFormNo>
@@ -25632,30 +25176,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3815">
-    <RegFormNo>16195</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>3724</CaneGrowerCode>
-    <CaneGrowerName>ढवळे बबन श्रीहरी</CaneGrowerName>
-    <ServeyNo>2/7</ServeyNo>
-    <PlantationDate>30/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.50</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>-</MobileNo>
-  </PlotNo>
   <PlotNo No="3060">
     <RegFormNo>13371</RegFormNo>
     <GatCode>3</GatCode>
@@ -25823,30 +25343,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3052">
-    <RegFormNo>15027</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>19737</CaneGrowerCode>
-    <CaneGrowerName>भोसले बापु मारुती</CaneGrowerName>
-    <ServeyNo>99</ServeyNo>
-    <PlantationDate>05/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9890126211</MobileNo>
   </PlotNo>
   <PlotNo No="3073">
     <RegFormNo>15284</RegFormNo>
@@ -26760,30 +26256,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="342">
-    <RegFormNo>13916</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>11986</CaneGrowerCode>
-    <CaneGrowerName>भोसले मोहन विलास</CaneGrowerName>
-    <ServeyNo>117/3</ServeyNo>
-    <PlantationDate>04/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.30</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9420472657</MobileNo>
-  </PlotNo>
   <PlotNo No="341">
     <RegFormNo>13916</RegFormNo>
     <GatCode>3</GatCode>
@@ -27288,30 +26760,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3554">
-    <RegFormNo>15808</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>21970</CaneGrowerCode>
-    <CaneGrowerName>काटकर संतोष जालिंदर </CaneGrowerName>
-    <ServeyNo>53</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9975554405</MobileNo>
-  </PlotNo>
   <PlotNo No="2965">
     <RegFormNo>15031</RegFormNo>
     <GatCode>3</GatCode>
@@ -27335,54 +26783,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2964">
-    <RegFormNo>15023</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>39047</CaneGrowerCode>
-    <CaneGrowerName>मोहिते निवृत्ती गणपत</CaneGrowerName>
-    <ServeyNo>91</ServeyNo>
-    <PlantationDate>02/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2962">
-    <RegFormNo>15107</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5098</CaneGrowerCode>
-    <CaneGrowerName>होलम नवनाथ चंदर</CaneGrowerName>
-    <ServeyNo>209</ServeyNo>
-    <PlantationDate>02/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9860815022</MobileNo>
   </PlotNo>
   <PlotNo No="2959">
     <RegFormNo>15082</RegFormNo>
@@ -27528,30 +26928,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3235">
-    <RegFormNo>15298</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5088</CaneGrowerCode>
-    <CaneGrowerName>सातव संगिता दिलीप</CaneGrowerName>
-    <ServeyNo>91</ServeyNo>
-    <PlantationDate>11/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9404997609</MobileNo>
-  </PlotNo>
   <PlotNo No="3234">
     <RegFormNo>15846</RegFormNo>
     <GatCode>3</GatCode>
@@ -27575,30 +26951,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3843">
-    <RegFormNo>16200</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>7456</CaneGrowerCode>
-    <CaneGrowerName>माने शिवाजी दत्तात्रय</CaneGrowerName>
-    <ServeyNo>92</ServeyNo>
-    <PlantationDate>31/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9096457304</MobileNo>
   </PlotNo>
   <PlotNo No="3841">
     <RegFormNo>16197</RegFormNo>
@@ -27840,30 +27192,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3032">
-    <RegFormNo>15208</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>4938</CaneGrowerCode>
-    <CaneGrowerName>धुमाळ चंद्रकांत मल्लीकार्जुन</CaneGrowerName>
-    <ServeyNo>114</ServeyNo>
-    <PlantationDate>05/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9970506298</MobileNo>
-  </PlotNo>
   <PlotNo No="3031">
     <RegFormNo>15221</RegFormNo>
     <GatCode>3</GatCode>
@@ -27887,30 +27215,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3030">
-    <RegFormNo>14103</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>13702</CaneGrowerCode>
-    <CaneGrowerName>सातव नाना केशव</CaneGrowerName>
-    <ServeyNo>51</ServeyNo>
-    <PlantationDate>05/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9423103253</MobileNo>
   </PlotNo>
   <PlotNo No="3028">
     <RegFormNo>15228</RegFormNo>
@@ -27984,30 +27288,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="2062">
-    <RegFormNo>11981</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5096</CaneGrowerCode>
-    <CaneGrowerName>होलम बाळु माणिक</CaneGrowerName>
-    <ServeyNo>176/3</ServeyNo>
-    <PlantationDate>25/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9960752572</MobileNo>
-  </PlotNo>
   <PlotNo No="2061">
     <RegFormNo>11977</RegFormNo>
     <GatCode>3</GatCode>
@@ -28031,30 +27311,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2060">
-    <RegFormNo>15150</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>13173</CaneGrowerCode>
-    <CaneGrowerName>सातव भरत दत्तुबा</CaneGrowerName>
-    <ServeyNo>357</ServeyNo>
-    <PlantationDate>05/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730762698</MobileNo>
   </PlotNo>
   <PlotNo No="2058">
     <RegFormNo>15014</RegFormNo>
@@ -28224,30 +27480,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="224">
-    <RegFormNo>13418</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5041</CaneGrowerCode>
-    <CaneGrowerName>सातव गुलाब लक्ष्मण</CaneGrowerName>
-    <ServeyNo>126/1</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>-</MobileNo>
-  </PlotNo>
   <PlotNo No="254">
     <RegFormNo>13390</RegFormNo>
     <GatCode>3</GatCode>
@@ -28344,30 +27576,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="246">
-    <RegFormNo>13398</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5125</CaneGrowerCode>
-    <CaneGrowerName>काळे शहाजी पंढरीनाथ</CaneGrowerName>
-    <ServeyNo>112</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>7774092852</MobileNo>
-  </PlotNo>
   <PlotNo No="244">
     <RegFormNo>13434</RegFormNo>
     <GatCode>3</GatCode>
@@ -28415,30 +27623,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="242">
-    <RegFormNo>13435</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>6187</CaneGrowerCode>
-    <CaneGrowerName>सातव सुभाष लक्ष्मण</CaneGrowerName>
-    <ServeyNo>126</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9552308120</MobileNo>
   </PlotNo>
   <PlotNo No="241">
     <RegFormNo>13433</RegFormNo>
@@ -28608,54 +27792,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="229">
-    <RegFormNo>13422</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>3004</CaneGrowerCode>
-    <CaneGrowerName>फाळके काळुराम कृष्णा</CaneGrowerName>
-    <ServeyNo>45/2</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9822533840</MobileNo>
-  </PlotNo>
-  <PlotNo No="228">
-    <RegFormNo>13421</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>39080</CaneGrowerCode>
-    <CaneGrowerName>सातव प्रविण अरुण</CaneGrowerName>
-    <ServeyNo>48</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>-</MobileNo>
-  </PlotNo>
   <PlotNo No="227">
     <RegFormNo>13420</RegFormNo>
     <GatCode>3</GatCode>
@@ -28671,7 +27807,7 @@
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>2</CaneVarietyCode>
     <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.00</Area>
+    <Area>0.00</Area>
     <IrrigationTypeCode>3</IrrigationTypeCode>
     <IrrigationType>लिफ्ट</IrrigationType>
     <IrrigationMethodCode>1</IrrigationMethodCode>
@@ -29016,30 +28152,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="944">
-    <RegFormNo>14084</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5109</CaneGrowerCode>
-    <CaneGrowerName>सातव उत्तम रामभाऊ</CaneGrowerName>
-    <ServeyNo>54</ServeyNo>
-    <PlantationDate>12/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9890835245</MobileNo>
-  </PlotNo>
   <PlotNo No="942">
     <RegFormNo>14087</RegFormNo>
     <GatCode>3</GatCode>
@@ -29160,29 +28272,29 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="209">
-    <RegFormNo>13351</RegFormNo>
+  <PlotNo No="12342">
+    <RegFormNo>13418</RegFormNo>
     <GatCode>3</GatCode>
     <GatName>देऊळगाव राजे</GatName>
     <VillageCode>29</VillageCode>
     <VillageName>शिरापुर</VillageName>
     <Distance>0.00</Distance>
-    <CaneGrowerCode>13190</CaneGrowerCode>
-    <CaneGrowerName>सातव नंदा सुभाष</CaneGrowerName>
-    <ServeyNo>126</ServeyNo>
+    <CaneGrowerCode>50435</CaneGrowerCode>
+    <CaneGrowerName>सातव संतोष गुलाब </CaneGrowerName>
+    <ServeyNo>126/1</ServeyNo>
     <PlantationDate>01/07/2014</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>2</CaneVarietyCode>
     <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
+    <Area>0.00</Area>
     <IrrigationTypeCode>3</IrrigationTypeCode>
     <IrrigationType>लिफ्ट</IrrigationType>
     <IrrigationMethodCode>1</IrrigationMethodCode>
     <IrrigationMethod>पाटपाणी</IrrigationMethod>
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9552308120</MobileNo>
+    <MobileNo>-</MobileNo>
   </PlotNo>
   <PlotNo No="5950">
     <RegFormNo>17446</RegFormNo>
@@ -29279,30 +28391,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2947">
-    <RegFormNo>15081</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>23033</CaneGrowerCode>
-    <CaneGrowerName>ठोंबरे रघुनाथ गुलाब</CaneGrowerName>
-    <ServeyNo>322</ServeyNo>
-    <PlantationDate>30/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730664559</MobileNo>
   </PlotNo>
   <PlotNo No="2946">
     <RegFormNo>15143</RegFormNo>
@@ -29424,30 +28512,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3232">
-    <RegFormNo>15854</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5208</CaneGrowerCode>
-    <CaneGrowerName>पानवकर दत्तु आण्णा</CaneGrowerName>
-    <ServeyNo>349</ServeyNo>
-    <PlantationDate>19/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9096572392</MobileNo>
-  </PlotNo>
   <PlotNo No="3231">
     <RegFormNo>15315</RegFormNo>
     <GatCode>3</GatCode>
@@ -29471,30 +28535,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3227">
-    <RegFormNo>15855</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>9745</CaneGrowerCode>
-    <CaneGrowerName>पानवकर सुनिल दत्तात्रय </CaneGrowerName>
-    <ServeyNo>355</ServeyNo>
-    <PlantationDate>15/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9096572392</MobileNo>
   </PlotNo>
   <PlotNo No="3226">
     <RegFormNo>15225</RegFormNo>
@@ -29520,30 +28560,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3225">
-    <RegFormNo>15293</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>2988</CaneGrowerCode>
-    <CaneGrowerName>दिवेकर दत्ता भाऊसाहेब</CaneGrowerName>
-    <ServeyNo>214</ServeyNo>
-    <PlantationDate>10/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9823852091</MobileNo>
-  </PlotNo>
   <PlotNo No="3223">
     <RegFormNo>15307</RegFormNo>
     <GatCode>3</GatCode>
@@ -29567,54 +28583,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="3836">
-    <RegFormNo>16188</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>18894</CaneGrowerCode>
-    <CaneGrowerName>कापसे सुखदेव नारायण</CaneGrowerName>
-    <ServeyNo>311</ServeyNo>
-    <PlantationDate>27/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730617943</MobileNo>
-  </PlotNo>
-  <PlotNo No="2086">
-    <RegFormNo>15114</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>23028</CaneGrowerCode>
-    <CaneGrowerName>सावंत भक्ती शशिकांत</CaneGrowerName>
-    <ServeyNo>282</ServeyNo>
-    <PlantationDate>28/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9860404524</MobileNo>
   </PlotNo>
   <PlotNo No="2085">
     <RegFormNo>15011</RegFormNo>
@@ -29711,30 +28679,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2081">
-    <RegFormNo>11984</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>22867</CaneGrowerCode>
-    <CaneGrowerName>खेडकर मल्हारी गणपत</CaneGrowerName>
-    <ServeyNo>257/†1</ServeyNo>
-    <PlantationDate>26/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9011861768</MobileNo>
   </PlotNo>
   <PlotNo No="2079">
     <RegFormNo>15012</RegFormNo>
@@ -29847,7 +28791,7 @@
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>2</CaneVarietyCode>
     <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
+    <Area>0.00</Area>
     <IrrigationTypeCode>3</IrrigationTypeCode>
     <IrrigationType>लिफ्ट</IrrigationType>
     <IrrigationMethodCode>1</IrrigationMethodCode>
@@ -29871,7 +28815,7 @@
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>2</CaneVarietyCode>
     <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.20</Area>
+    <Area>0.00</Area>
     <IrrigationTypeCode>3</IrrigationTypeCode>
     <IrrigationType>लिफ्ट</IrrigationType>
     <IrrigationMethodCode>1</IrrigationMethodCode>
@@ -29927,30 +28871,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2087">
-    <RegFormNo>15116</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>39753</CaneGrowerCode>
-    <CaneGrowerName>सावंत उदयन रमाकांत</CaneGrowerName>
-    <ServeyNo>279</ServeyNo>
-    <PlantationDate>28/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9860404524</MobileNo>
   </PlotNo>
   <PlotNo No="2945">
     <RegFormNo>15093</RegFormNo>
@@ -30072,30 +28992,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="3022">
-    <RegFormNo>14060</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>19882</CaneGrowerCode>
-    <CaneGrowerName>कापसे महादेव सुखदेव</CaneGrowerName>
-    <ServeyNo>211</ServeyNo>
-    <PlantationDate>05/08/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9960250637</MobileNo>
-  </PlotNo>
   <PlotNo No="3021">
     <RegFormNo>15041</RegFormNo>
     <GatCode>3</GatCode>
@@ -30216,30 +29112,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="148">
-    <RegFormNo>13367</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5188</CaneGrowerCode>
-    <CaneGrowerName>अवचर छबाबाई गोरख</CaneGrowerName>
-    <ServeyNo>343</ServeyNo>
-    <PlantationDate>02/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9890245147</MobileNo>
-  </PlotNo>
   <PlotNo No="147">
     <RegFormNo>13401</RegFormNo>
     <GatCode>3</GatCode>
@@ -30288,30 +29160,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="145">
-    <RegFormNo>13391</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>21930</CaneGrowerCode>
-    <CaneGrowerName>घोलप किसन आप्पा</CaneGrowerName>
-    <ServeyNo>219/4</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9960304941</MobileNo>
-  </PlotNo>
   <PlotNo No="144">
     <RegFormNo>13928</RegFormNo>
     <GatCode>3</GatCode>
@@ -30335,30 +29183,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="141">
-    <RegFormNo>13906</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>4962</CaneGrowerCode>
-    <CaneGrowerName>घोलप विठ्ठल आप्पा</CaneGrowerName>
-    <ServeyNo>219/3</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730762934</MobileNo>
   </PlotNo>
   <PlotNo No="140">
     <RegFormNo>13905</RegFormNo>
@@ -30391,8 +29215,8 @@
     <VillageCode>31</VillageCode>
     <VillageName>पानवकर वस्ती</VillageName>
     <Distance>0.00</Distance>
-    <CaneGrowerCode>45963</CaneGrowerCode>
-    <CaneGrowerName>अनमल नरसुबाई कृष्णाजी</CaneGrowerName>
+    <CaneGrowerCode>46482</CaneGrowerCode>
+    <CaneGrowerName>अनमल सुरेश शंकर</CaneGrowerName>
     <ServeyNo>51</ServeyNo>
     <PlantationDate>01/07/2014</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
@@ -30407,30 +29231,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="137">
-    <RegFormNo>13902</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>22869</CaneGrowerCode>
-    <CaneGrowerName>कदम अरुणा कमलाकर</CaneGrowerName>
-    <ServeyNo>273/1</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9921229685</MobileNo>
   </PlotNo>
   <PlotNo No="135">
     <RegFormNo>12025</RegFormNo>
@@ -30503,30 +29303,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="1838">
-    <RegFormNo>14144</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>2991</CaneGrowerCode>
-    <CaneGrowerName>पानवकर लिलावती तुकाराम</CaneGrowerName>
-    <ServeyNo>213/2</ServeyNo>
-    <PlantationDate>21/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>2.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9404997693</MobileNo>
   </PlotNo>
   <PlotNo No="1831">
     <RegFormNo>14113</RegFormNo>
@@ -30647,30 +29423,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="239">
-    <RegFormNo>13901</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>18724</CaneGrowerCode>
-    <CaneGrowerName>कदम प्रकाश अनंता</CaneGrowerName>
-    <ServeyNo>273/1/›ü</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9421763487</MobileNo>
   </PlotNo>
   <PlotNo No="3955">
     <RegFormNo>16192</RegFormNo>
@@ -31248,30 +30000,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="321">
-    <RegFormNo>14062</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>2981</CaneGrowerCode>
-    <CaneGrowerName>कारले आण्णा बबन</CaneGrowerName>
-    <ServeyNo>59</ServeyNo>
-    <PlantationDate>05/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9270001344</MobileNo>
-  </PlotNo>
   <PlotNo No="1810">
     <RegFormNo>12002</RegFormNo>
     <GatCode>3</GatCode>
@@ -31655,30 +30383,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="273">
-    <RegFormNo>13356</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>12354</CaneGrowerCode>
-    <CaneGrowerName>कदम चंद्रभागा अंकुश</CaneGrowerName>
-    <ServeyNo>359</ServeyNo>
-    <PlantationDate>02/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9404997622</MobileNo>
   </PlotNo>
   <PlotNo No="271">
     <RegFormNo>13450</RegFormNo>
@@ -32112,30 +30816,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="165">
-    <RegFormNo>42382</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>25</VillageCode>
-    <VillageName>पेडगाव(दौंड)</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>3123</CaneGrowerCode>
-    <CaneGrowerName>अवचर जनार्धन विठ्ठल</CaneGrowerName>
-    <ServeyNo>216</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>-</MobileNo>
-  </PlotNo>
   <PlotNo No="1830">
     <RegFormNo>11985</RegFormNo>
     <GatCode>3</GatCode>
@@ -32351,30 +31031,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="2968">
-    <RegFormNo>15110</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>27</VillageCode>
-    <VillageName>हिंगणीबेर्डी</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>11998</CaneGrowerCode>
-    <CaneGrowerName>वाळके बबनराव राऊ</CaneGrowerName>
-    <ServeyNo>150</ServeyNo>
-    <PlantationDate>30/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.60</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9975282526</MobileNo>
   </PlotNo>
   <PlotNo No="3047">
     <RegFormNo>15030</RegFormNo>
@@ -32712,54 +31368,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="400">
-    <RegFormNo>13439</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5144</CaneGrowerCode>
-    <CaneGrowerName>निंबाळकर संतोष लालासो</CaneGrowerName>
-    <ServeyNo>175</ServeyNo>
-    <PlantationDate>04/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.50</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9405867334</MobileNo>
-  </PlotNo>
-  <PlotNo No="395">
-    <RegFormNo>14145</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>12639</CaneGrowerCode>
-    <CaneGrowerName>पोळ रंजना मोहन</CaneGrowerName>
-    <ServeyNo>-</ServeyNo>
-    <PlantationDate>08/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>1.40</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9604885496</MobileNo>
-  </PlotNo>
   <PlotNo No="394">
     <RegFormNo>14096</RegFormNo>
     <GatCode>3</GatCode>
@@ -32807,54 +31415,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="252">
-    <RegFormNo>13360</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5125</CaneGrowerCode>
-    <CaneGrowerName>काळे शहाजी पंढरीनाथ</CaneGrowerName>
-    <ServeyNo>100</ServeyNo>
-    <PlantationDate>02/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>7774092852</MobileNo>
-  </PlotNo>
-  <PlotNo No="231">
-    <RegFormNo>13423</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>9694</CaneGrowerCode>
-    <CaneGrowerName>फाळके दादा कृष्णा</CaneGrowerName>
-    <ServeyNo>45/3</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9423721082</MobileNo>
   </PlotNo>
   <PlotNo No="213">
     <RegFormNo>13383</RegFormNo>
@@ -33312,30 +31872,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="1833">
-    <RegFormNo>14142</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>19883</CaneGrowerCode>
-    <CaneGrowerName>पासलकर दत्तात्रय भागुजी</CaneGrowerName>
-    <ServeyNo>321</ServeyNo>
-    <PlantationDate>21/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>2</CaneVarietyCode>
-    <CaneVariety>CoM-265</CaneVariety>
-    <Area>0.50</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9657213691</MobileNo>
-  </PlotNo>
   <PlotNo No="1832">
     <RegFormNo>14114</RegFormNo>
     <GatCode>3</GatCode>
@@ -33743,30 +32279,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="5961">
-    <RegFormNo>17387</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>20</VillageCode>
-    <VillageName>देऊळगावराजे</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>2961</CaneGrowerCode>
-    <CaneGrowerName>गिरमकर शिला अशोक</CaneGrowerName>
-    <ServeyNo>-</ServeyNo>
-    <PlantationDate>08/11/2014</PlantationDate>
-    <CaneTypeCode>4</CaneTypeCode>
-    <CaneType>खोडवा</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.00</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9822646594</MobileNo>
   </PlotNo>
   <PlotNo No="5733">
     <RegFormNo>18411</RegFormNo>
@@ -35952,30 +34464,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="222">
-    <RegFormNo>13415</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5135</CaneGrowerCode>
-    <CaneGrowerName>सातव चंद्रकांत विठ्ठल</CaneGrowerName>
-    <ServeyNo>96/2</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.80</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730491403</MobileNo>
-  </PlotNo>
   <PlotNo No="249">
     <RegFormNo>13386</RegFormNo>
     <GatCode>3</GatCode>
@@ -35999,30 +34487,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="247">
-    <RegFormNo>13398</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5125</CaneGrowerCode>
-    <CaneGrowerName>काळे शहाजी पंढरीनाथ</CaneGrowerName>
-    <ServeyNo>112</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>7774092852</MobileNo>
   </PlotNo>
   <PlotNo No="240">
     <RegFormNo>42351</RegFormNo>
@@ -36048,30 +34512,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="232">
-    <RegFormNo>13423</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>9694</CaneGrowerCode>
-    <CaneGrowerName>फाळके दादा कृष्णा</CaneGrowerName>
-    <ServeyNo>45/3</ServeyNo>
-    <PlantationDate>01/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9423721082</MobileNo>
-  </PlotNo>
   <PlotNo No="230">
     <RegFormNo>13422</RegFormNo>
     <GatCode>3</GatCode>
@@ -36095,30 +34535,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="943">
-    <RegFormNo>14085</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>4977</CaneGrowerCode>
-    <CaneGrowerName>सातव सुलोचना उत्तम</CaneGrowerName>
-    <ServeyNo>101</ServeyNo>
-    <PlantationDate>12/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.40</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9890835245</MobileNo>
   </PlotNo>
   <PlotNo No="211">
     <RegFormNo>13381</RegFormNo>
@@ -36144,30 +34560,6 @@
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
   </PlotNo>
-  <PlotNo No="2948">
-    <RegFormNo>15081</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>31</VillageCode>
-    <VillageName>पानवकर वस्ती</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>23033</CaneGrowerCode>
-    <CaneGrowerName>ठोंबरे रघुनाथ गुलाब</CaneGrowerName>
-    <ServeyNo>322</ServeyNo>
-    <PlantationDate>30/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.20</Area>
-    <IrrigationTypeCode>3</IrrigationTypeCode>
-    <IrrigationType>लिफ्ट</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>9730664559</MobileNo>
-  </PlotNo>
   <PlotNo No="3025">
     <RegFormNo>15140</RegFormNo>
     <GatCode>3</GatCode>
@@ -36178,7 +34570,7 @@
     <CaneGrowerCode>21949</CaneGrowerCode>
     <CaneGrowerName>शितोळे निलम राजेंद्र </CaneGrowerName>
     <ServeyNo>258/1</ServeyNo>
-    <PlantationDate>12/08/2014</PlantationDate>
+    <PlantationDate>01/07/2014</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>1</CaneVarietyCode>
@@ -36202,7 +34594,7 @@
     <CaneGrowerCode>7381</CaneGrowerCode>
     <CaneGrowerName>शितोळे रणजित राजेद्र</CaneGrowerName>
     <ServeyNo>258/1</ServeyNo>
-    <PlantationDate>10/08/2014</PlantationDate>
+    <PlantationDate>01/07/2014</PlantationDate>
     <CaneTypeCode>1</CaneTypeCode>
     <CaneType>आडसाली</CaneType>
     <CaneVarietyCode>1</CaneVarietyCode>
@@ -36479,30 +34871,6 @@
     <PlantationTypeCode>1</PlantationTypeCode>
     <PlantationType>सरी पद्धत</PlantationType>
     <MobileNo>-</MobileNo>
-  </PlotNo>
-  <PlotNo No="253">
-    <RegFormNo>13360</RegFormNo>
-    <GatCode>3</GatCode>
-    <GatName>देऊळगाव राजे</GatName>
-    <VillageCode>29</VillageCode>
-    <VillageName>शिरापुर</VillageName>
-    <Distance>0.00</Distance>
-    <CaneGrowerCode>5125</CaneGrowerCode>
-    <CaneGrowerName>काळे शहाजी पंढरीनाथ</CaneGrowerName>
-    <ServeyNo>100</ServeyNo>
-    <PlantationDate>02/07/2014</PlantationDate>
-    <CaneTypeCode>1</CaneTypeCode>
-    <CaneType>आडसाली</CaneType>
-    <CaneVarietyCode>1</CaneVarietyCode>
-    <CaneVariety>Co-86032</CaneVariety>
-    <Area>0.20</Area>
-    <IrrigationTypeCode>1</IrrigationTypeCode>
-    <IrrigationType>विहीर</IrrigationType>
-    <IrrigationMethodCode>1</IrrigationMethodCode>
-    <IrrigationMethod>पाटपाणी</IrrigationMethod>
-    <PlantationTypeCode>1</PlantationTypeCode>
-    <PlantationType>सरी पद्धत</PlantationType>
-    <MobileNo>7774092852</MobileNo>
   </PlotNo>
   <PlotNo No="949">
     <RegFormNo>14104</RegFormNo>
