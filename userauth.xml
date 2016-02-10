@@ -210,4 +210,9 @@
     <password>45</password>
     <level>3</level>
   </loginid>
+  <loginid id="144">
+    <username>-</username>
+    <password>br</password>
+    <level>3</level>
+  </loginid>
 </users>
